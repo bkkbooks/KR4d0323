@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0323/SBCK/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四
+  hash: sha256:754a9d5828d502f19ae91df8f089811d9affe9e0a487b20528975700f7c90f75
+metadata:
+  title: 四六標準
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-25 00:04:27.424686'
+  source:
+    repository: kanripo
+    path: KR4d0323/KR4d0323_038.txt
+hash: sha256:6638edb92839791ec3cebe115aaa710eeae4c24643617d27de01fd221115f437

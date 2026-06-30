@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR4d0323/SBCK/v1/markers/37
+seq: 37
+markers:
+  front: []
+  body:
+  - {type: line-break, offset: 0, content: '', id: KR4d0323_SBCK_037-front01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR4d0323_SBCK_037-bkkkrnewl1}
+  back: []
+hash: sha256:ffd6a96f8650494908142a8b9b9139cb44624556f2853fb2db94e465cc7a92a9
