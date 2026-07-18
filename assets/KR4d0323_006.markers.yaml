@@ -98,12 +98,14 @@ markers:
   - {type: line-break, offset: 13, content: '', id: KR4d0323_WYG_006-1a04}
   - {type: indent, offset: 13, content: 　　, id: KR4d0323_krp_006-bkkind6}
   - {type: punctuation, offset: 17, content: (, id: KR4d0323_krp_006-bkkpn1}
+  - {type: voice, offset: 17, length: 2, name: note, id: n1}
   - {type: variant, offset: 18, length: 1, content: 誼, SBCK: 􅁩}
   - {type: punctuation, offset: 19, content: /, id: KR4d0323_krp_006-bkkpn2}
   - {type: punctuation, offset: 19, content: ), id: KR4d0323_krp_006-bkkpn3}
   - {type: variant, offset: 19, length: 1, content: 囘, SBCK: 回}
   - {type: substitution, offset: 19, original: 囘, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20167}}
   - {type: punctuation, offset: 23, content: (, id: KR4d0323_krp_006-bkkpn4}
+  - {type: voice, offset: 23, length: 158, name: note, id: n2}
   - {type: 'kr:non-cjk', offset: 25, content: ○, id: KR4d0323_krp_006-bkkkrnonc1}
   - {type: variant, offset: 25, length: 156, content: 聶子述建昌府南城縣人紹熈中進士官至吏部侍郎尋以制置出帥西蜀已而致仕歸適有盗殺郡守朝廷遣將欲屠城子述單騎至麾下力陳民寃乃止殺其渠魁民頼以安卒諡文定按宋史寧宗嘉定十二年春正月召董居誼詣行在以新利州路安撫使聶子述為四川制置使二月董居誼自利州遁夏四月紅巾賊張福入利州聶子述遁殺總領楊九鼎董居誼落職奪三官五月召聶子述詣行在, SBCK: ''}
   - {type: punctuation, offset: 31, content: /, id: KR4d0323_krp_006-bkkpn5}
@@ -153,6 +155,7 @@ markers:
   - {type: line-break, offset: 181, content: '', id: KR4d0323_WYG_006-1b01}
   - {type: variant, offset: 191, length: 10, content: 邦韓詩即是聮鑣向闕時, SBCK: 􅀖}
   - {type: punctuation, offset: 192, content: (, id: KR4d0323_krp_006-bkkpn19}
+  - {type: voice, offset: 192, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 197, content: /, id: KR4d0323_krp_006-bkkpn20}
   - {type: punctuation, offset: 201, content: ), id: KR4d0323_krp_006-bkkpn21}
   - {type: 'kr:newline', offset: 206, content: '
@@ -161,6 +164,7 @@ markers:
   - {type: line-break, offset: 206, content: '', id: KR4d0323_WYG_006-1b02}
   - {type: punctuation, offset: 212, content: (, id: KR4d0323_krp_006-bkkpn22}
   - {type: variant, offset: 212, length: 106, content: 陲是為切本作垂説文逺邊也尚書西垂注垂逺外之名左傳虔劉我邊垂庾亮傳吾憂西陲過于歴陽杜詩起予幸斑白因是託子孫童蒙訓曰同僚之契交承之分有兄弟之義至其子孫亦世講之前輩專以此為務今人知之者蓋少矣王元之詩古人重交代子孫不相忘, SBCK: ''}
+  - {type: voice, offset: 212, length: 106, name: note, id: n4}
   - {type: punctuation, offset: 227, content: /, id: KR4d0323_krp_006-bkkpn23}
   - {type: punctuation, offset: 242, content: ), id: KR4d0323_krp_006-bkkpn24}
   - {type: 'kr:newline', offset: 242, content: '
@@ -185,10 +189,12 @@ markers:
       ', id: KR4d0323_krp_006-bkkkrnewl13}
   - {type: line-break, offset: 322, content: '', id: KR4d0323_WYG_006-1b05}
   - {type: punctuation, offset: 322, content: (, id: KR4d0323_krp_006-bkkpn31}
+  - {type: voice, offset: 322, length: 20, name: note, id: n5}
   - {type: punctuation, offset: 332, content: /, id: KR4d0323_krp_006-bkkpn32}
   - {type: punctuation, offset: 342, content: ), id: KR4d0323_krp_006-bkkpn33}
   - {type: punctuation, offset: 346, content: (, id: KR4d0323_krp_006-bkkpn34}
   - {type: variant, offset: 346, length: 24, content: 盥古玩切説文澡手也左傳奉匜沃盥増韻以盆沃洗曰盥恭, SBCK: 㳟}
+  - {type: voice, offset: 346, length: 23, name: note, id: n6}
   - {type: punctuation, offset: 353, content: /, id: KR4d0323_krp_006-bkkpn35}
   - {type: punctuation, offset: 360, content: ), id: KR4d0323_krp_006-bkkpn36}
   - {type: 'kr:newline', offset: 360, content: '
@@ -201,6 +207,7 @@ markers:
   - {type: punctuation, offset: 369, content: ), id: KR4d0323_krp_006-bkkpn39}
   - {type: variant, offset: 374, length: 15, content: 凜松筠儲光羲詩特逹踰珪璋節操方, SBCK: 凛}
   - {type: punctuation, offset: 377, content: (, id: KR4d0323_krp_006-bkkpn40}
+  - {type: voice, offset: 377, length: 14, name: note, id: n7}
   - {type: punctuation, offset: 384, content: /, id: KR4d0323_krp_006-bkkpn41}
   - {type: substitution, offset: 384, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: punctuation, offset: 391, content: ), id: KR4d0323_krp_006-bkkpn42}
@@ -210,6 +217,7 @@ markers:
   - {type: line-break, offset: 392, content: '', id: KR4d0323_WYG_006-1b07}
   - {type: variant, offset: 393, length: 48, content: 蓍蔡蔡龜名食貨志元龜為蔡一曰出蔡因以為名法言樗里子之智也使其知國如知葬則吾以疾為蓍龜韓詩刺史肅蓍, SBCK: 􅆱}
   - {type: punctuation, offset: 395, content: (, id: KR4d0323_krp_006-bkkpn43}
+  - {type: voice, offset: 395, length: 47, name: note, id: n8}
   - {type: punctuation, offset: 413, content: /, id: KR4d0323_krp_006-bkkpn44}
   - {type: punctuation, offset: 431, content: ), id: KR4d0323_krp_006-bkkpn45}
   - {type: 'kr:newline', offset: 431, content: '
@@ -222,6 +230,7 @@ markers:
   - {type: variant, offset: 447, length: 1, content: 於, SBCK: 于}
   - {type: punctuation, offset: 455, content: (, id: KR4d0323_krp_006-bkkpn49}
   - {type: variant, offset: 455, length: 33, content: 尚書爾有嘉謀嘉猷則入告爾后于内爾乃順之於外汲黯傳願出入禁闥補過拾遺, SBCK: ''}
+  - {type: voice, offset: 455, length: 33, name: note, id: n9}
   - {type: punctuation, offset: 457, content: /, id: KR4d0323_krp_006-bkkpn50}
   - {type: punctuation, offset: 459, content: ), id: KR4d0323_krp_006-bkkpn51}
   - {type: 'kr:newline', offset: 459, content: '
@@ -242,6 +251,7 @@ markers:
   - {type: line-break, offset: 494, content: '', id: KR4d0323_WYG_006-2a02}
   - {type: punctuation, offset: 501, content: (, id: KR4d0323_krp_006-bkkpn55}
   - {type: variant, offset: 501, length: 16, content: 杜詩萬國衣冠拜冕旒柳詩天冕垂前旒, SBCK: ''}
+  - {type: voice, offset: 501, length: 16, name: note, id: n10}
   - {type: punctuation, offset: 509, content: /, id: KR4d0323_krp_006-bkkpn56}
   - {type: punctuation, offset: 517, content: ), id: KR4d0323_krp_006-bkkpn57}
   - {type: substitution, offset: 522, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
@@ -251,6 +261,7 @@ markers:
   - {type: line-break, offset: 523, content: '', id: KR4d0323_WYG_006-2a03}
   - {type: punctuation, offset: 523, content: (, id: KR4d0323_krp_006-bkkpn58}
   - {type: variant, offset: 523, length: 62, content: 唐禇亮傳太宗為天䇿將軍寇難旣平於是以杜如晦房𤣥齡等十八人命圖其像使亮為之贊號十八學士分為三番遞宿閣下給珍膳天下傾慕謂之登瀛洲, SBCK: ''}
+  - {type: voice, offset: 523, length: 62, name: note, id: n11}
   - {type: substitution, offset: 536, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: punctuation, offset: 544, content: /, id: KR4d0323_krp_006-bkkpn59}
   - {type: substitution, offset: 545, original: 𤣥, replacement: 玄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0001}}
@@ -264,6 +275,7 @@ markers:
   - {type: punctuation, offset: 585, content: ), id: KR4d0323_krp_006-bkkpn63}
   - {type: punctuation, offset: 591, content: (, id: KR4d0323_krp_006-bkkpn64}
   - {type: variant, offset: 591, length: 24, content: 司馬相如傳乃遣相如責唐蒙等因諭告巴蜀民以非上意騎, SBCK: 􅀐}
+  - {type: voice, offset: 591, length: 23, name: note, id: n12}
   - {type: punctuation, offset: 596, content: /, id: KR4d0323_krp_006-bkkpn65}
   - {type: punctuation, offset: 601, content: ), id: KR4d0323_krp_006-bkkpn66}
   - {type: 'kr:newline', offset: 601, content: '
@@ -275,6 +287,7 @@ markers:
   - {type: punctuation, offset: 614, content: ), id: KR4d0323_krp_006-bkkpn69}
   - {type: variant, offset: 621, length: 36, content: 伊邇韓詩西來騎火照山紅夜宿桃林臘月中手把命珪兼相印一時重疊賞元功詩不逺伊, SBCK: 易}
   - {type: punctuation, offset: 623, content: (, id: KR4d0323_krp_006-bkkpn70}
+  - {type: voice, offset: 623, length: 35, name: note, id: n13}
   - {type: punctuation, offset: 628, content: /, id: KR4d0323_krp_006-bkkpn71}
   - {type: punctuation, offset: 633, content: ), id: KR4d0323_krp_006-bkkpn72}
   - {type: 'kr:newline', offset: 633, content: '
@@ -291,6 +304,7 @@ markers:
   - {type: line-break, offset: 666, content: '', id: KR4d0323_WYG_006-2a07}
   - {type: variant, offset: 666, length: 43, content: 深雪山在威州西南一百里與乳川白苟嶺相連山有九峯上有積雪春夏不消杜詩雪嶺界天白錦城曛日黄, SBCK: 􅀷}
   - {type: punctuation, offset: 667, content: (, id: KR4d0323_krp_006-bkkpn76}
+  - {type: voice, offset: 667, length: 42, name: note, id: n14}
   - {type: punctuation, offset: 687, content: /, id: KR4d0323_krp_006-bkkpn77}
   - {type: punctuation, offset: 707, content: ), id: KR4d0323_krp_006-bkkpn78}
   - {type: 'kr:newline', offset: 707, content: '
@@ -307,6 +321,7 @@ markers:
   - {type: substitution, offset: 724, original: 䑕, replacement: 鼠, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19956}}
   - {type: punctuation, offset: 726, content: (, id: KR4d0323_krp_006-bkkpn82}
   - {type: variant, offset: 726, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 726, length: 3, name: note, id: n15}
   - {type: punctuation, offset: 728, content: /, id: KR4d0323_krp_006-bkkpn83}
   - {type: punctuation, offset: 729, content: ), id: KR4d0323_krp_006-bkkpn84}
   - {type: substitution, offset: 729, original: 糠, replacement: 粳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17801}}
@@ -320,6 +335,7 @@ markers:
   - {type: line-break, offset: 730, content: '', id: KR4d0323_WYG_006-2b01}
   - {type: punctuation, offset: 740, content: (, id: KR4d0323_krp_006-bkkpn85}
   - {type: variant, offset: 740, length: 9, content: 南史傅劌代劉元明為, SBCK: ''}
+  - {type: voice, offset: 740, length: 24, name: note, id: n16}
   - {type: variant, offset: 750, length: 16, content: 隂令問元明曰願以舊政告新令尹山藪, SBCK: 薮}
   - {type: punctuation, offset: 751, content: /, id: KR4d0323_krp_006-bkkpn86}
   - {type: punctuation, offset: 762, content: ), id: KR4d0323_krp_006-bkkpn87}
@@ -333,6 +349,7 @@ markers:
   - {type: page-break, offset: 771, content: '', id: KR4d0323_SBCK_006-1b}
   - {type: punctuation, offset: 775, content: (, id: KR4d0323_krp_006-bkkpn91}
   - {type: variant, offset: 775, length: 59, content: 左傳山藪藏疾正議云山有木藪有草毒蟲所聚故云藏疾周禮八議一曰議親二曰議故三曰議賢四曰議能五曰議功六曰議䝿七曰議勤八曰議賓, SBCK: ''}
+  - {type: voice, offset: 775, length: 59, name: note, id: n17}
   - {type: punctuation, offset: 784, content: /, id: KR4d0323_krp_006-bkkpn92}
   - {type: punctuation, offset: 793, content: ), id: KR4d0323_krp_006-bkkpn93}
   - {type: 'kr:newline', offset: 793, content: '
@@ -349,6 +366,7 @@ markers:
   - {type: line-break, offset: 834, content: '', id: KR4d0323_WYG_006-2b04}
   - {type: indent, offset: 834, content: 　　, id: KR4d0323_krp_006-bkkind11}
   - {type: punctuation, offset: 838, content: (, id: KR4d0323_krp_006-bkkpn97}
+  - {type: voice, offset: 838, length: 2, name: note, id: n18}
   - {type: punctuation, offset: 840, content: /, id: KR4d0323_krp_006-bkkpn98}
   - {type: punctuation, offset: 840, content: ), id: KR4d0323_krp_006-bkkpn99}
   - {type: 'kr:newline', offset: 840, content: '
@@ -357,6 +375,7 @@ markers:
   - {type: line-break, offset: 840, content: '', id: KR4d0323_WYG_006-2b05}
   - {type: punctuation, offset: 844, content: (, id: KR4d0323_krp_006-bkkpn100}
   - {type: variant, offset: 844, length: 62, content: 李郃傳有二使星向益州分野詳别見玉壘山在灌縣西北二十九里湔水出焉左思賦包玉壘以為宇郭璞江賦玉壘作東别之標杜詩玉壘浮雲變古今冰觧, SBCK: 氷解}
+  - {type: voice, offset: 844, length: 60, name: note, id: n19}
   - {type: punctuation, offset: 861, content: /, id: KR4d0323_krp_006-bkkpn101}
   - {type: punctuation, offset: 878, content: ), id: KR4d0323_krp_006-bkkpn102}
   - {type: 'kr:newline', offset: 878, content: '
@@ -369,6 +388,7 @@ markers:
   - {type: substitution, offset: 905, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: punctuation, offset: 908, content: (, id: KR4d0323_krp_006-bkkpn106}
   - {type: variant, offset: 908, length: 17, content: 趙充國傳馳至金城圖上方略又水觧漕下, SBCK: ''}
+  - {type: voice, offset: 908, length: 17, name: note, id: n20}
   - {type: punctuation, offset: 912, content: /, id: KR4d0323_krp_006-bkkpn107}
   - {type: punctuation, offset: 916, content: ), id: KR4d0323_krp_006-bkkpn108}
   - {type: 'kr:newline', offset: 916, content: '
@@ -383,6 +403,7 @@ markers:
   - {type: variant, offset: 931, length: 1, content: 宜, SBCK: 冝}
   - {type: variant, offset: 937, length: 30, content: 屬公羊傳王人者何微者也曷序乎諸矦之上先王命也周禮地官其屬六十, SBCK: 属}
   - {type: punctuation, offset: 938, content: (, id: KR4d0323_krp_006-bkkpn112}
+  - {type: voice, offset: 938, length: 29, name: note, id: n21}
   - {type: punctuation, offset: 941, content: /, id: KR4d0323_krp_006-bkkpn113}
   - {type: punctuation, offset: 944, content: ), id: KR4d0323_krp_006-bkkpn114}
   - {type: 'kr:newline', offset: 944, content: '
@@ -402,6 +423,7 @@ markers:
   - {type: line-break, offset: 976, content: '', id: KR4d0323_WYG_006-3a01}
   - {type: punctuation, offset: 980, content: (, id: KR4d0323_krp_006-bkkpn118}
   - {type: variant, offset: 980, length: 114, content: 左傳穆叔如晉晉矦享之歌鹿鳴之三三拜韓獻子使行人子員問之對曰鹿鳴君所嘉寡君也敢不拜嘉四牡君所以勞使臣也敢不重拜皇皇者華君教使臣曰必諮于周臣聞之訪問於善為咨咨親為詢咨禮為度咨事為諏咨難為謀臣獲五善敢不重拜蜀志益州險塞沃野千里天府之土, SBCK: ''}
+  - {type: voice, offset: 980, length: 114, name: note, id: n22}
   - {type: punctuation, offset: 997, content: /, id: KR4d0323_krp_006-bkkpn119}
   - {type: punctuation, offset: 1014, content: ), id: KR4d0323_krp_006-bkkpn120}
   - {type: 'kr:newline', offset: 1014, content: '
@@ -429,6 +451,7 @@ markers:
   - {type: variant, offset: 1107, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 1110, content: (, id: KR4d0323_krp_006-bkkpn127}
   - {type: variant, offset: 1110, length: 38, content: 周札傳以身許國死而後已孔稚珪詩本持許國志況復武功彰東坡詩許國心猶在匡時術已虛, SBCK: ''}
+  - {type: voice, offset: 1110, length: 38, name: note, id: n23}
   - {type: punctuation, offset: 1117, content: /, id: KR4d0323_krp_006-bkkpn128}
   - {type: substitution, offset: 1123, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: punctuation, offset: 1124, content: ), id: KR4d0323_krp_006-bkkpn129}
@@ -447,6 +470,7 @@ markers:
   - {type: line-break, offset: 1157, content: '', id: KR4d0323_WYG_006-3a06}
   - {type: punctuation, offset: 1159, content: (, id: KR4d0323_krp_006-bkkpn133}
   - {type: variant, offset: 1159, length: 131, content: 新序齊有閭丘卭年十八道遮宣王願仕宣王曰子年尚稚未有咫角驂駒而能服重致逺者也對曰不然昔者顓頊行年十二而治天下秦項橐七歲為聖人師由此觀之卭不肖耳年不稚矣戰國䇿文信矦使張唐相燕弗肯行少庶子甘羅請行之文信矦叱去甘羅曰夫項橐生七歲為孔子師今臣生十二歲于兹矣君其試臣奚遽言叱, SBCK: ''}
+  - {type: voice, offset: 1159, length: 131, name: note, id: n24}
   - {type: punctuation, offset: 1178, content: /, id: KR4d0323_krp_006-bkkpn134}
   - {type: punctuation, offset: 1197, content: ), id: KR4d0323_krp_006-bkkpn135}
   - {type: 'kr:newline', offset: 1197, content: '
@@ -476,6 +500,7 @@ markers:
   - {type: punctuation, offset: 1290, content: ), id: KR4d0323_krp_006-bkkpn144}
   - {type: punctuation, offset: 1297, content: (, id: KR4d0323_krp_006-bkkpn145}
   - {type: variant, offset: 1297, length: 22, content: 項籍傳書足記姓名而已劒一人敵不足學學萬人敵耳, SBCK: ''}
+  - {type: voice, offset: 1297, length: 22, name: note, id: n25}
   - {type: punctuation, offset: 1306, content: /, id: KR4d0323_krp_006-bkkpn146}
   - {type: punctuation, offset: 1315, content: ), id: KR4d0323_krp_006-bkkpn147}
   - {type: 'kr:newline', offset: 1315, content: '
@@ -488,6 +513,7 @@ markers:
   - {type: variant, offset: 1325, length: 1, content: 已, SBCK: 巳}
   - {type: punctuation, offset: 1331, content: (, id: KR4d0323_krp_006-bkkpn151}
   - {type: variant, offset: 1331, length: 20, content: 公羊傳封魯公為周公也周公拜乎前魯公拜乎後, SBCK: ''}
+  - {type: voice, offset: 1331, length: 20, name: note, id: n26}
   - {type: punctuation, offset: 1338, content: /, id: KR4d0323_krp_006-bkkpn152}
   - {type: punctuation, offset: 1345, content: ), id: KR4d0323_krp_006-bkkpn153}
   - {type: 'kr:newline', offset: 1345, content: '
@@ -500,6 +526,7 @@ markers:
   - {type: variant, offset: 1353, length: 1, content: 萬, SBCK: 万}
   - {type: punctuation, offset: 1358, content: (, id: KR4d0323_krp_006-bkkpn157}
   - {type: variant, offset: 1358, length: 13, content: 鮑照詩五説窮舌端五車摧筆鋒, SBCK: ''}
+  - {type: voice, offset: 1358, length: 13, name: note, id: n27}
   - {type: punctuation, offset: 1365, content: /, id: KR4d0323_krp_006-bkkpn158}
   - {type: punctuation, offset: 1371, content: ), id: KR4d0323_krp_006-bkkpn159}
   - {type: variant, offset: 1372, length: 1, content: 刃, SBCK: 刄}
@@ -510,10 +537,12 @@ markers:
   - {type: variant, offset: 1377, length: 4, content: 觧見前亷, SBCK: 解廉}
   - {type: substitution, offset: 1377, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: punctuation, offset: 1378, content: (, id: KR4d0323_krp_006-bkkpn160}
+  - {type: voice, offset: 1378, length: 2, name: note, id: n28}
   - {type: punctuation, offset: 1379, content: /, id: KR4d0323_krp_006-bkkpn161}
   - {type: punctuation, offset: 1380, content: ), id: KR4d0323_krp_006-bkkpn162}
   - {type: punctuation, offset: 1390, content: (, id: KR4d0323_krp_006-bkkpn163}
   - {type: variant, offset: 1390, length: 29, content: 劌音媿説文利傷也禮記君子比徳於玉亷而不劌義也杜詩十年出幕府, SBCK: ''}
+  - {type: voice, offset: 1390, length: 29, name: note, id: n29}
   - {type: substitution, offset: 1392, original: 媿, replacement: 愧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17517}}
   - {type: punctuation, offset: 1397, content: /, id: KR4d0323_krp_006-bkkpn164}
   - {type: substitution, offset: 1403, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
@@ -528,6 +557,7 @@ markers:
   - {type: variant, offset: 1422, length: 1, content: 清, SBCK: 淸}
   - {type: variant, offset: 1428, length: 43, content: 禮尚書夙夜惟寅直哉惟清淮南子夏桀之時容臺振而掩覆注行禮容之臺類要太常曰容臺尚書典朕三禮, SBCK: 礼}
   - {type: punctuation, offset: 1429, content: (, id: KR4d0323_krp_006-bkkpn169}
+  - {type: voice, offset: 1429, length: 42, name: note, id: n30}
   - {type: punctuation, offset: 1432, content: /, id: KR4d0323_krp_006-bkkpn170}
   - {type: punctuation, offset: 1435, content: ), id: KR4d0323_krp_006-bkkpn171}
   - {type: 'kr:newline', offset: 1435, content: '
@@ -544,10 +574,12 @@ markers:
   - {type: variant, offset: 1474, length: 14, content: 冣魏顔斐字文林治為雍州十郡之, SBCK: ''}
   - {type: substitution, offset: 1474, original: 冣, replacement: 最, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17452}}
   - {type: punctuation, offset: 1475, content: (, id: KR4d0323_krp_006-bkkpn175}
+  - {type: voice, offset: 1475, length: 14, name: note, id: n31}
   - {type: punctuation, offset: 1482, content: /, id: KR4d0323_krp_006-bkkpn176}
   - {type: punctuation, offset: 1489, content: ), id: KR4d0323_krp_006-bkkpn177}
   - {type: punctuation, offset: 1493, content: (, id: KR4d0323_krp_006-bkkpn178}
   - {type: variant, offset: 1493, length: 15, content: 庀普弭切治也又具也左傳官庀其司, SBCK: ''}
+  - {type: voice, offset: 1493, length: 15, name: note, id: n32}
   - {type: punctuation, offset: 1501, content: /, id: KR4d0323_krp_006-bkkpn179}
   - {type: punctuation, offset: 1508, content: ), id: KR4d0323_krp_006-bkkpn180}
   - {type: 'kr:newline', offset: 1509, content: '
@@ -557,10 +589,12 @@ markers:
   - {type: variant, offset: 1509, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 1514, content: (, id: KR4d0323_krp_006-bkkpn181}
   - {type: variant, offset: 1514, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 1514, length: 2, name: note, id: n33}
   - {type: punctuation, offset: 1515, content: /, id: KR4d0323_krp_006-bkkpn182}
   - {type: punctuation, offset: 1516, content: ), id: KR4d0323_krp_006-bkkpn183}
   - {type: punctuation, offset: 1530, content: (, id: KR4d0323_krp_006-bkkpn184}
   - {type: variant, offset: 1530, length: 9, content: 詩序有常徳以立武事, SBCK: ''}
+  - {type: voice, offset: 1530, length: 9, name: note, id: n34}
   - {type: punctuation, offset: 1531, content: /, id: KR4d0323_krp_006-bkkpn185}
   - {type: punctuation, offset: 1532, content: ), id: KR4d0323_krp_006-bkkpn186}
   - {type: 'kr:newline', offset: 1532, content: '
@@ -579,6 +613,7 @@ markers:
   - {type: page-break, offset: 1549, content: '', id: KR4d0323_SBCK_006-2a}
   - {type: punctuation, offset: 1551, content: (, id: KR4d0323_krp_006-bkkpn190}
   - {type: variant, offset: 1551, length: 12, content: 韓詩龍旂垂天衛雲韶凝禁甬, SBCK: ''}
+  - {type: voice, offset: 1551, length: 12, name: note, id: n35}
   - {type: substitution, offset: 1554, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17702}}
   - {type: punctuation, offset: 1556, content: /, id: KR4d0323_krp_006-bkkpn191}
   - {type: punctuation, offset: 1561, content: ), id: KR4d0323_krp_006-bkkpn192}
@@ -593,6 +628,7 @@ markers:
   - {type: substitution, offset: 1567, original: 饑, replacement: 飢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16274}}
   - {type: punctuation, offset: 1573, content: (, id: KR4d0323_krp_006-bkkpn196}
   - {type: variant, offset: 1573, length: 58, content: 蜀志呉使張温來聘温問秦宓曰天有頭乎曰有之曰在何方宓曰詩云乃眷西顧以此推之頭在西方寇恂傳髙祖任蕭何於闗中無復西顧之憂禮, SBCK: 礼}
+  - {type: voice, offset: 1573, length: 57, name: note, id: n36}
   - {type: substitution, offset: 1575, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: substitution, offset: 1578, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: substitution, offset: 1581, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
@@ -612,10 +648,12 @@ markers:
   - {type: line-break, offset: 1632, content: '', id: KR4d0323_WYG_006-4a04}
   - {type: punctuation, offset: 1640, content: (, id: KR4d0323_krp_006-bkkpn202}
   - {type: variant, offset: 1640, length: 12, content: 杜詩愁邊有江水焉得北之朝, SBCK: ''}
+  - {type: voice, offset: 1640, length: 12, name: note, id: n37}
   - {type: punctuation, offset: 1646, content: /, id: KR4d0323_krp_006-bkkpn203}
   - {type: punctuation, offset: 1652, content: ), id: KR4d0323_krp_006-bkkpn204}
   - {type: punctuation, offset: 1658, content: (, id: KR4d0323_krp_006-bkkpn205}
   - {type: variant, offset: 1658, length: 27, content: 夢溪筆談内諸司舍屋唯秘閣最宏壯閣下穹窿髙敞相傳謂之木天, SBCK: ''}
+  - {type: voice, offset: 1658, length: 27, name: note, id: n38}
   - {type: punctuation, offset: 1659, content: /, id: KR4d0323_krp_006-bkkpn206}
   - {type: punctuation, offset: 1660, content: ), id: KR4d0323_krp_006-bkkpn207}
   - {type: 'kr:newline', offset: 1660, content: '
@@ -631,6 +669,7 @@ markers:
   - {type: substitution, offset: 1690, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 1691, content: (, id: KR4d0323_krp_006-bkkpn211}
   - {type: variant, offset: 1691, length: 10, content: 杜詩欲奪蓬婆雪外城歴, SBCK: 歷}
+  - {type: voice, offset: 1691, length: 9, name: note, id: n39}
   - {type: punctuation, offset: 1693, content: /, id: KR4d0323_krp_006-bkkpn212}
   - {type: punctuation, offset: 1695, content: ), id: KR4d0323_krp_006-bkkpn213}
   - {type: 'kr:newline', offset: 1695, content: '
@@ -644,6 +683,7 @@ markers:
   - {type: variant, offset: 1705, length: 1, content: 既, SBCK: 旣}
   - {type: punctuation, offset: 1711, content: (, id: KR4d0323_krp_006-bkkpn217}
   - {type: variant, offset: 1711, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 1711, length: 2, name: note, id: n40}
   - {type: punctuation, offset: 1712, content: /, id: KR4d0323_krp_006-bkkpn218}
   - {type: punctuation, offset: 1713, content: ), id: KR4d0323_krp_006-bkkpn219}
   - {type: 'kr:newline', offset: 1719, content: '
@@ -652,6 +692,7 @@ markers:
   - {type: line-break, offset: 1719, content: '', id: KR4d0323_WYG_006-4a07}
   - {type: punctuation, offset: 1724, content: (, id: KR4d0323_krp_006-bkkpn220}
   - {type: variant, offset: 1724, length: 43, content: 張衡東京賦鵝鸛魚麗箕張翼舒王濟注鵝與鸛皆陣名魚麗陣勢箕張翼舒亦陣之名杜詩轉粟上青天寧須, SBCK: 寕湏}
+  - {type: voice, offset: 1724, length: 41, name: note, id: n41}
   - {type: punctuation, offset: 1740, content: /, id: KR4d0323_krp_006-bkkpn221}
   - {type: substitution, offset: 1744, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20393}}
   - {type: substitution, offset: 1748, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20393}}
@@ -666,6 +707,7 @@ markers:
   - {type: punctuation, offset: 1765, content: ), id: KR4d0323_krp_006-bkkpn225}
   - {type: punctuation, offset: 1771, content: (, id: KR4d0323_krp_006-bkkpn226}
   - {type: variant, offset: 1771, length: 34, content: 軵音冗説文反推車令有䂤付也一曰輕車也淮南子軵車而餉馮奉世傳再三發軵既, SBCK: 即}
+  - {type: voice, offset: 1771, length: 33, name: note, id: n42}
   - {type: punctuation, offset: 1781, content: /, id: KR4d0323_krp_006-bkkpn227}
   - {type: substitution, offset: 1781, original: 䂤, replacement: 附, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16065}}
   - {type: punctuation, offset: 1791, content: ), id: KR4d0323_krp_006-bkkpn228}
@@ -682,6 +724,7 @@ markers:
   - {type: punctuation, offset: 1804, content: ), id: KR4d0323_krp_006-bkkpn231}
   - {type: variant, offset: 1809, length: 16, content: 總左傳羣臣率賦輿為魯衞請注兵車也, SBCK: 緫}
   - {type: punctuation, offset: 1810, content: (, id: KR4d0323_krp_006-bkkpn232}
+  - {type: voice, offset: 1810, length: 15, name: note, id: n43}
   - {type: punctuation, offset: 1818, content: /, id: KR4d0323_krp_006-bkkpn233}
   - {type: substitution, offset: 1819, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: punctuation, offset: 1825, content: ), id: KR4d0323_krp_006-bkkpn234}
@@ -691,10 +734,12 @@ markers:
   - {type: line-break, offset: 1825, content: '', id: KR4d0323_WYG_006-4b02}
   - {type: punctuation, offset: 1829, content: (, id: KR4d0323_krp_006-bkkpn235}
   - {type: variant, offset: 1829, length: 12, content: 杜詩卿月升金掌王春度玉墀, SBCK: ''}
+  - {type: voice, offset: 1829, length: 12, name: note, id: n44}
   - {type: punctuation, offset: 1835, content: /, id: KR4d0323_krp_006-bkkpn236}
   - {type: punctuation, offset: 1841, content: ), id: KR4d0323_krp_006-bkkpn237}
   - {type: punctuation, offset: 1845, content: (, id: KR4d0323_krp_006-bkkpn238}
   - {type: variant, offset: 1845, length: 52, content: 玉京山在成都府資縣西南五十里峭嶮壁立挿天連雲儼然在目上有觀曰太霄山谷詩注玉京山在香罏峯下落星寺僧開軒對之, SBCK: ''}
+  - {type: voice, offset: 1845, length: 52, name: note, id: n45}
   - {type: punctuation, offset: 1852, content: /, id: KR4d0323_krp_006-bkkpn239}
   - {type: punctuation, offset: 1859, content: ), id: KR4d0323_krp_006-bkkpn240}
   - {type: 'kr:newline', offset: 1859, content: '
@@ -713,6 +758,7 @@ markers:
   - {type: variant, offset: 1904, length: 1, content: 於, SBCK: 于}
   - {type: punctuation, offset: 1918, content: (, id: KR4d0323_krp_006-bkkpn244}
   - {type: variant, offset: 1918, length: 23, content: 王荆公詩老我孤主恩結草以為期陳後山詩老我何所懐, SBCK: ''}
+  - {type: voice, offset: 1918, length: 23, name: note, id: n46}
   - {type: punctuation, offset: 1920, content: /, id: KR4d0323_krp_006-bkkpn245}
   - {type: punctuation, offset: 1922, content: ), id: KR4d0323_krp_006-bkkpn246}
   - {type: 'kr:newline', offset: 1922, content: '
@@ -731,12 +777,14 @@ markers:
   - {type: line-break, offset: 1952, content: '', id: KR4d0323_WYG_006-4b06}
   - {type: punctuation, offset: 1952, content: (, id: KR4d0323_krp_006-bkkpn250}
   - {type: variant, offset: 1952, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 1952, length: 2, name: note, id: n47}
   - {type: punctuation, offset: 1953, content: /, id: KR4d0323_krp_006-bkkpn251}
   - {type: punctuation, offset: 1954, content: ), id: KR4d0323_krp_006-bkkpn252}
   - {type: variant, offset: 1956, length: 1, content: 爨, SBCK: 㸑}
   - {type: variant, offset: 1962, length: 1, content: 巳, SBCK: 己}
   - {type: punctuation, offset: 1965, content: (, id: KR4d0323_krp_006-bkkpn253}
   - {type: variant, offset: 1965, length: 38, content: 韓信傳千里餽糧士有饑色樵蘇後爨師不宿飽師古曰樵取薪也蘇取草也詩樵彼桑薪餘見前, SBCK: ''}
+  - {type: voice, offset: 1965, length: 38, name: note, id: n48}
   - {type: punctuation, offset: 1974, content: /, id: KR4d0323_krp_006-bkkpn254}
   - {type: substitution, offset: 1974, original: 饑, replacement: 飢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16274}}
   - {type: punctuation, offset: 1983, content: ), id: KR4d0323_krp_006-bkkpn255}
@@ -751,6 +799,7 @@ markers:
   - {type: substitution, offset: 2006, original: 𤓰, replacement: 瓜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19511}}
   - {type: variant, offset: 2008, length: 9, content: 戒行李韓文宵則沭浴, SBCK: ''}
   - {type: punctuation, offset: 2011, content: (, id: KR4d0323_krp_006-bkkpn259}
+  - {type: voice, offset: 2011, length: 9, name: note, id: n49}
   - {type: punctuation, offset: 2014, content: /, id: KR4d0323_krp_006-bkkpn260}
   - {type: punctuation, offset: 2017, content: ), id: KR4d0323_krp_006-bkkpn261}
   - {type: 'kr:newline', offset: 2017, content: '
@@ -765,6 +814,7 @@ markers:
   - {type: substitution, offset: 2031, original: 驩, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16431}}
   - {type: punctuation, offset: 2032, content: (, id: KR4d0323_krp_006-bkkpn265}
   - {type: variant, offset: 2032, length: 23, content: 司馬相如傳遣信使曉諭百姓師古曰誠信之人以為使也, SBCK: ''}
+  - {type: voice, offset: 2032, length: 23, name: note, id: n50}
   - {type: punctuation, offset: 2039, content: /, id: KR4d0323_krp_006-bkkpn266}
   - {type: punctuation, offset: 2046, content: ), id: KR4d0323_krp_006-bkkpn267}
   - {type: 'kr:newline', offset: 2046, content: '
@@ -780,6 +830,7 @@ markers:
   - {type: punctuation, offset: 2055, content: ), id: KR4d0323_krp_006-bkkpn270}
   - {type: punctuation, offset: 2067, content: (, id: KR4d0323_krp_006-bkkpn271}
   - {type: variant, offset: 2067, length: 43, content: 季布傳曹丘生至揖布曰僕與足下皆楚人使僕游揚足下名于天下顧不羙乎杜詩起予幸班白因是託子孫, SBCK: ''}
+  - {type: voice, offset: 2067, length: 43, name: note, id: n51}
   - {type: punctuation, offset: 2071, content: /, id: KR4d0323_krp_006-bkkpn272}
   - {type: punctuation, offset: 2075, content: ), id: KR4d0323_krp_006-bkkpn273}
   - {type: 'kr:newline', offset: 2075, content: '
@@ -804,6 +855,7 @@ markers:
   - {type: line-break, offset: 2118, content: '', id: KR4d0323_WYG_006-5a04}
   - {type: indent, offset: 2118, content: 　　, id: KR4d0323_krp_006-bkkind12}
   - {type: punctuation, offset: 2124, content: (, id: KR4d0323_krp_006-bkkpn277}
+  - {type: voice, offset: 2124, length: 2, name: note, id: n52}
   - {type: punctuation, offset: 2126, content: /, id: KR4d0323_krp_006-bkkpn278}
   - {type: punctuation, offset: 2126, content: ), id: KR4d0323_krp_006-bkkpn279}
   - {type: 'kr:newline', offset: 2126, content: '
@@ -815,6 +867,7 @@ markers:
   - {type: variant, offset: 2129, length: 1, content: 弟, SBCK: ''}
   - {type: punctuation, offset: 2138, content: (, id: KR4d0323_krp_006-bkkpn280}
   - {type: variant, offset: 2138, length: 81, content: 漢書馮立與兄野王相代為太守歌之曰大馮君小馮君兄弟繼踵相因循聰明賢知惠吏民政如魯衛徳化均周公康叔猶二君班次也左傳使魯為之班後鄭言使魯序其次第魯人以鄭伯爵使居後餘見前, SBCK: ''}
+  - {type: voice, offset: 2138, length: 81, name: note, id: n53}
   - {type: punctuation, offset: 2147, content: /, id: KR4d0323_krp_006-bkkpn281}
   - {type: punctuation, offset: 2156, content: ), id: KR4d0323_krp_006-bkkpn282}
   - {type: 'kr:newline', offset: 2156, content: '
@@ -839,6 +892,7 @@ markers:
   - {type: line-break, offset: 2229, content: '', id: KR4d0323_WYG_006-5a08}
   - {type: punctuation, offset: 2231, content: (, id: KR4d0323_krp_006-bkkpn289}
   - {type: variant, offset: 2231, length: 42, content: 召信臣傳百姓親愛號之曰召父杜詩傳時人方于召信臣故南陽為之語曰前有召父後有杜母餘見前肅, SBCK: 粛}
+  - {type: voice, offset: 2231, length: 41, name: note, id: n54}
   - {type: punctuation, offset: 2250, content: /, id: KR4d0323_krp_006-bkkpn290}
   - {type: punctuation, offset: 2269, content: ), id: KR4d0323_krp_006-bkkpn291}
   - {type: 'kr:newline', offset: 2269, content: '
@@ -854,6 +908,7 @@ markers:
   - {type: punctuation, offset: 2272, content: ), id: KR4d0323_krp_006-bkkpn294}
   - {type: variant, offset: 2275, length: 73, content: 騎漢書東方千騎長人古辭陌上桑東方千餘騎夫壻居上頭隋盧思道日出東南隅行會待東方騎遥居最上頭徐伯陽詩欲識東方千騎歸藹藹日暮風塵起張孝祥詩千騎東方白玉鑣, SBCK: 􅀐}
   - {type: punctuation, offset: 2276, content: (, id: KR4d0323_krp_006-bkkpn295}
+  - {type: voice, offset: 2276, length: 72, name: note, id: n55}
   - {type: punctuation, offset: 2291, content: /, id: KR4d0323_krp_006-bkkpn296}
   - {type: punctuation, offset: 2306, content: ), id: KR4d0323_krp_006-bkkpn297}
   - {type: 'kr:newline', offset: 2306, content: '
@@ -873,6 +928,7 @@ markers:
   - {type: variant, offset: 2352, length: 1, content: 恭, SBCK: 㳟}
   - {type: punctuation, offset: 2364, content: (, id: KR4d0323_krp_006-bkkpn301}
   - {type: variant, offset: 2364, length: 3, content: 並見前, SBCK: ''}
+  - {type: voice, offset: 2364, length: 3, name: note, id: n56}
   - {type: punctuation, offset: 2366, content: /, id: KR4d0323_krp_006-bkkpn302}
   - {type: punctuation, offset: 2367, content: ), id: KR4d0323_krp_006-bkkpn303}
   - {type: substitution, offset: 2369, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
@@ -884,6 +940,7 @@ markers:
   - {type: variant, offset: 2371, length: 1, content: 蘊, SBCK: 藴}
   - {type: punctuation, offset: 2378, content: (, id: KR4d0323_krp_006-bkkpn304}
   - {type: variant, offset: 2378, length: 103, content: 劉向傳向本名更生通材能屬文辭淮南有枕中鴻寶苑秘書更生得之㓜而讀誦劉峻廣絶交論舒向金玉淵海卿雲黼黻河漢梁書朱异傳异字彦和有詔求異能之士明山賓表薦异曰竊見錢塘朱异器宇宏深神表峯峻金山萬丈縁陟未登玉海千尋窺映不測, SBCK: ''}
+  - {type: voice, offset: 2378, length: 103, name: note, id: n57}
   - {type: punctuation, offset: 2391, content: /, id: KR4d0323_krp_006-bkkpn305}
   - {type: substitution, offset: 2400, original: 秘, replacement: 祕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20732}}
   - {type: punctuation, offset: 2404, content: ), id: KR4d0323_krp_006-bkkpn306}
@@ -916,6 +973,7 @@ markers:
   - {type: substitution, offset: 2486, original: 陣, replacement: 陳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20393}}
   - {type: punctuation, offset: 2492, content: (, id: KR4d0323_krp_006-bkkpn313}
   - {type: variant, offset: 2492, length: 169, content: 新唐書文藝傳李賀字長吉系出鄭王後七歲能文章每騎弱馬從小奚奴背古錦囊遇所得書投囊中母探囊中見所書多怒曰是兒嘔出心乃已耳杜牧之李賀集序雲烟聯綿不足為其態也水之迢迢不足為其情也春之盎盎不足為其和也秋之明潔不足為其清也風檣陣馬不足為其勇也瓦棺篆鼎不足為其古也時花美女不足為其色也荒國侈殿梗莽丘隴不足為其怨恨悲愁也鯨呿鼇擲牛鬼蛇神不足為其虛荒誕幻也, SBCK: ''}
+  - {type: voice, offset: 2492, length: 169, name: note, id: n58}
   - {type: punctuation, offset: 2505, content: /, id: KR4d0323_krp_006-bkkpn314}
   - {type: punctuation, offset: 2518, content: ), id: KR4d0323_krp_006-bkkpn315}
   - {type: 'kr:newline', offset: 2518, content: '
@@ -954,6 +1012,7 @@ markers:
   - {type: punctuation, offset: 2661, content: ), id: KR4d0323_krp_006-bkkpn327}
   - {type: punctuation, offset: 2668, content: (, id: KR4d0323_krp_006-bkkpn328}
   - {type: variant, offset: 2668, length: 14, content: 水經注三峽謂廣溪峽巫峽西陵峽, SBCK: ''}
+  - {type: voice, offset: 2668, length: 14, name: note, id: n59}
   - {type: punctuation, offset: 2673, content: /, id: KR4d0323_krp_006-bkkpn329}
   - {type: punctuation, offset: 2678, content: ), id: KR4d0323_krp_006-bkkpn330}
   - {type: 'kr:newline', offset: 2678, content: '
@@ -966,6 +1025,7 @@ markers:
   - {type: variant, offset: 2684, length: 1, content: 決, SBCK: 决}
   - {type: punctuation, offset: 2689, content: (, id: KR4d0323_krp_006-bkkpn334}
   - {type: variant, offset: 2689, length: 17, content: 韓詩城上赤雲呈勝氣又即是連鑣向闕時, SBCK: ''}
+  - {type: voice, offset: 2689, length: 17, name: note, id: n60}
   - {type: punctuation, offset: 2698, content: /, id: KR4d0323_krp_006-bkkpn335}
   - {type: punctuation, offset: 2706, content: ), id: KR4d0323_krp_006-bkkpn336}
   - {type: substitution, offset: 2707, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
@@ -976,6 +1036,7 @@ markers:
   - {type: variant, offset: 2713, length: 101, content: 敭已遍寰説文王者封畿内縣也穀梁傳寰内諸矦非有天子之命不得出會諸矦疏寰内者三都在中諸矦四面繞之故曰寰内寰音縣古縣字一音環禮記王者之制禄爵公侯伯子男凡五等注獨以矦為名而稱諸矦者舉中而言又爾雅矦為君故以矦言之, SBCK: 揚巳徧}
   - {type: substitution, offset: 2713, original: 敭, replacement: 揚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16311}}
   - {type: punctuation, offset: 2716, content: (, id: KR4d0323_krp_006-bkkpn337}
+  - {type: voice, offset: 2716, length: 98, name: note, id: n61}
   - {type: substitution, offset: 2723, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
   - {type: punctuation, offset: 2730, content: /, id: KR4d0323_krp_006-bkkpn338}
   - {type: substitution, offset: 2730, original: 内, replacement: 內, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20757}}
@@ -1003,6 +1064,7 @@ markers:
   - {type: line-break, offset: 2821, content: '', id: KR4d0323_WYG_006-6a08}
   - {type: punctuation, offset: 2824, content: (, id: KR4d0323_krp_006-bkkpn346}
   - {type: variant, offset: 2824, length: 33, content: 蘇秦傳使我有雒陽負郭田二頃豈能佩六國相印乎唐百官志三日洗印視其刓缺, SBCK: ''}
+  - {type: voice, offset: 2824, length: 33, name: note, id: n62}
   - {type: punctuation, offset: 2841, content: /, id: KR4d0323_krp_006-bkkpn347}
   - {type: punctuation, offset: 2857, content: ), id: KR4d0323_krp_006-bkkpn348}
   - {type: 'kr:newline', offset: 2858, content: '
@@ -1015,6 +1077,7 @@ markers:
   - {type: line-break, offset: 2858, content: '', id: KR4d0323_WYG_006-6b01}
   - {type: punctuation, offset: 2861, content: (, id: KR4d0323_krp_006-bkkpn349}
   - {type: variant, offset: 2861, length: 83, content: 蟇頥山在州城東七里自象耳山連峯壁立西瞰玻瓈江五十餘里至此磅礴蹲踞形類蟇頥故名宋陸務觀詩玻瓈江上栁如絲行樂家家要及時只怪今朝空巷出使君人日宴蟇頥張逺宵詩水突蟇頥灘穿龍𤓰, SBCK: ''}
+  - {type: voice, offset: 2861, length: 83, name: note, id: n63}
   - {type: punctuation, offset: 2879, content: /, id: KR4d0323_krp_006-bkkpn350}
   - {type: substitution, offset: 2881, original: 瓈, replacement: 璃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17663}}
   - {type: punctuation, offset: 2897, content: ), id: KR4d0323_krp_006-bkkpn351}
@@ -1036,6 +1099,7 @@ markers:
   - {type: punctuation, offset: 2944, content: ), id: KR4d0323_krp_006-bkkpn357}
   - {type: punctuation, offset: 2948, content: (, id: KR4d0323_krp_006-bkkpn358}
   - {type: variant, offset: 2948, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 2948, length: 2, name: note, id: n64}
   - {type: punctuation, offset: 2949, content: /, id: KR4d0323_krp_006-bkkpn359}
   - {type: punctuation, offset: 2950, content: ), id: KR4d0323_krp_006-bkkpn360}
   - {type: variant, offset: 2957, length: 1, content: 宜, SBCK: 冝}
@@ -1046,6 +1110,7 @@ markers:
   - {type: line-break, offset: 2963, content: '', id: KR4d0323_WYG_006-6b04}
   - {type: punctuation, offset: 2963, content: (, id: KR4d0323_krp_006-bkkpn361}
   - {type: variant, offset: 2963, length: 34, content: 巴蜀黔漢為四蜀唐通義志士以名節相尚東漢時多死節光武嘉之曰士大夫之郡也, SBCK: ''}
+  - {type: voice, offset: 2963, length: 34, name: note, id: n65}
   - {type: punctuation, offset: 2980, content: /, id: KR4d0323_krp_006-bkkpn362}
   - {type: punctuation, offset: 2997, content: ), id: KR4d0323_krp_006-bkkpn363}
   - {type: 'kr:newline', offset: 3001, content: '
@@ -1058,6 +1123,7 @@ markers:
   - {type: variant, offset: 3005, length: 1, content: 著, SBCK: 着}
   - {type: punctuation, offset: 3010, content: (, id: KR4d0323_krp_006-bkkpn364}
   - {type: variant, offset: 3010, length: 41, content: 杜詩徃者十四五出游翰墨塲栁詩足逸詩書囿鋒摇翰墨塲六一居士詞文章太守揮毫萬斛一飲千鍾, SBCK: ''}
+  - {type: voice, offset: 3010, length: 41, name: note, id: n66}
   - {type: substitution, offset: 3012, original: 徃, replacement: 往, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16735}}
   - {type: substitution, offset: 3018, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: substitution, offset: 3021, original: 塲, replacement: 場, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16309}}
@@ -1076,6 +1142,7 @@ markers:
   - {type: substitution, offset: 3056, original: 晩, replacement: 晚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20126}}
   - {type: punctuation, offset: 3058, content: (, id: KR4d0323_krp_006-bkkpn370}
   - {type: variant, offset: 3058, length: 70, content: 東坡眉山逺景樓記太守黎矦希聲先君子之友人也作逺景樓吾州之人求文以為記軾將歸老故丘布衣幅巾從邦君于其上酒酣樂作援筆而賦之以頌黎侯之遺愛尚未晩也, SBCK: ''}
+  - {type: voice, offset: 3058, length: 70, name: note, id: n67}
   - {type: punctuation, offset: 3063, content: /, id: KR4d0323_krp_006-bkkpn371}
   - {type: punctuation, offset: 3068, content: ), id: KR4d0323_krp_006-bkkpn372}
   - {type: 'kr:newline', offset: 3068, content: '
@@ -1096,6 +1163,7 @@ markers:
   - {type: variant, offset: 3129, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 3135, content: (, id: KR4d0323_krp_006-bkkpn379}
   - {type: variant, offset: 3135, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 3135, length: 2, name: note, id: n68}
   - {type: punctuation, offset: 3136, content: /, id: KR4d0323_krp_006-bkkpn380}
   - {type: punctuation, offset: 3137, content: ), id: KR4d0323_krp_006-bkkpn381}
   - {type: 'kr:newline', offset: 3141, content: '
@@ -1111,6 +1179,7 @@ markers:
   - {type: substitution, offset: 3144, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
   - {type: variant, offset: 3147, length: 194, content: 及劉徳傳徳字路叔少修黄老術有智略少時數言事召見甘泉宫武帝謂之千里駒師古曰言若駿馬可致千里也年齒㓜少故謂之駒按千里駒數見史傳難以悉舉姑列其目劉徳之外魏曹休晉傅咸劉曜符朗宋張敏梁蕭映王規劉杳王茂任昉齊丘仲孚袁昂北魏李孝伯袁曜北齊馮翊王潤崔昂元文選後周杜杲隋張乾威唐李暠成王千里詩皇皇者華于彼原隰駪駪征夫每懐靡及注征夫謂使臣駪駪多貌使臣之行必有上介衆介既受君命當速行毎人懐其私相稽留則于事將無所, SBCK: ''}
   - {type: punctuation, offset: 3148, content: (, id: KR4d0323_krp_006-bkkpn382}
+  - {type: voice, offset: 3148, length: 194, name: note, id: n69}
   - {type: substitution, offset: 3149, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: substitution, offset: 3151, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: substitution, offset: 3157, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
@@ -1160,6 +1229,7 @@ markers:
   - {type: line-break, offset: 3343, content: '', id: KR4d0323_WYG_006-7a06}
   - {type: punctuation, offset: 3353, content: (, id: KR4d0323_krp_006-bkkpn397}
   - {type: variant, offset: 3353, length: 127, content: 鱒音樽詩九罭之魚鱒魴我覯之子衮衣繡裳注緵罟謂之九罭孫炎曰九罭謂魚之所入有九囊也鱒才損反郭璞云似鯶子赤眼者江東人呼魴魚為鯿疏鱒魴是大魚處九罭之小網非其宜以興周公是聖人處東方之小邑亦非其宜詩序九罭羙周公也周大夫刺朝廷之不知也魏相傳朝廷已深知弱翁治行方且大用矣, SBCK: ''}
+  - {type: voice, offset: 3353, length: 127, name: note, id: n70}
   - {type: punctuation, offset: 3364, content: /, id: KR4d0323_krp_006-bkkpn398}
   - {type: punctuation, offset: 3375, content: ), id: KR4d0323_krp_006-bkkpn399}
   - {type: 'kr:newline', offset: 3375, content: '
@@ -1200,6 +1270,7 @@ markers:
   - {type: page-break, offset: 3500, content: '', id: KR4d0323_SBCK_006-3a}
   - {type: punctuation, offset: 3503, content: (, id: KR4d0323_krp_006-bkkpn409}
   - {type: variant, offset: 3503, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 3503, length: 3, name: note, id: n71}
   - {type: punctuation, offset: 3505, content: /, id: KR4d0323_krp_006-bkkpn410}
   - {type: punctuation, offset: 3506, content: ), id: KR4d0323_krp_006-bkkpn411}
   - {type: variant, offset: 3507, length: 1, content: 袍, SBCK: 􅂁}
@@ -1209,6 +1280,7 @@ markers:
   - {type: line-break, offset: 3512, content: '', id: KR4d0323_WYG_006-7b03}
   - {type: punctuation, offset: 3514, content: (, id: KR4d0323_krp_006-bkkpn412}
   - {type: variant, offset: 3514, length: 27, content: 范雎傳以綈袍戀戀有故人之意索隱曰綈厚繒也音啼葢今之絁也, SBCK: ''}
+  - {type: voice, offset: 3514, length: 27, name: note, id: n72}
   - {type: punctuation, offset: 3528, content: /, id: KR4d0323_krp_006-bkkpn413}
   - {type: substitution, offset: 3536, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: punctuation, offset: 3541, content: ), id: KR4d0323_krp_006-bkkpn414}
@@ -1220,6 +1292,7 @@ markers:
   - {type: line-break, offset: 3546, content: '', id: KR4d0323_WYG_006-7b04}
   - {type: punctuation, offset: 3549, content: (, id: KR4d0323_krp_006-bkkpn415}
   - {type: variant, offset: 3549, length: 32, content: 杜詩歩屧隨春風村村自花栁田翁逼社日邀我甞新酒酒酣誇新尹蓄眼未見有, SBCK: ''}
+  - {type: voice, offset: 3549, length: 32, name: note, id: n73}
   - {type: substitution, offset: 3551, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: punctuation, offset: 3565, content: /, id: KR4d0323_krp_006-bkkpn416}
   - {type: substitution, offset: 3568, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16905}}
@@ -1230,6 +1303,7 @@ markers:
   - {type: line-break, offset: 3583, content: '', id: KR4d0323_WYG_006-7b05}
   - {type: punctuation, offset: 3592, content: (, id: KR4d0323_krp_006-bkkpn418}
   - {type: variant, offset: 3592, length: 45, content: 莊子善養生者若牧羊然視其後者而鞭之蜀志建興九年出軍圍祁山始以木牛運十二年由斜谷出始以流馬運, SBCK: ''}
+  - {type: voice, offset: 3592, length: 45, name: note, id: n74}
   - {type: punctuation, offset: 3604, content: /, id: KR4d0323_krp_006-bkkpn419}
   - {type: punctuation, offset: 3616, content: ), id: KR4d0323_krp_006-bkkpn420}
   - {type: 'kr:newline', offset: 3616, content: '
@@ -1245,6 +1319,7 @@ markers:
   - {type: line-break, offset: 3647, content: '', id: KR4d0323_WYG_006-7b07}
   - {type: punctuation, offset: 3648, content: (, id: KR4d0323_krp_006-bkkpn424}
   - {type: variant, offset: 3648, length: 4, content: 韓文無疾, SBCK: ''}
+  - {type: voice, offset: 3648, length: 66, name: note, id: n75}
   - {type: variant, offset: 3653, length: 63, content: 驅天子有詔郭伋傳伋前并州素結恩徳始至行部至河西羙稷有童兒數百各騎竹馬道次迎拜伋問兒曹何自逺來對曰聞使君到喜故來奉迎伋辭謝之其為, SBCK: 爲}
   - {type: punctuation, offset: 3668, content: /, id: KR4d0323_krp_006-bkkpn425}
   - {type: substitution, offset: 3668, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
@@ -1269,6 +1344,7 @@ markers:
   - {type: line-break, offset: 3722, content: '', id: KR4d0323_WYG_006-8a01}
   - {type: indent, offset: 3722, content: 　　, id: KR4d0323_krp_006-bkkind13}
   - {type: punctuation, offset: 3726, content: (, id: KR4d0323_krp_006-bkkpn430}
+  - {type: voice, offset: 3726, length: 134, name: note, id: n76}
   - {type: 'kr:non-cjk', offset: 3728, content: ○, id: KR4d0323_krp_006-bkkkrnonc2}
   - {type: variant, offset: 3728, length: 132, content: 宋四朝史何執中傳執中為吏部尚書以四選按集吏藏於家以舞文取賄請置架閣庫命官莅之以主管尚書某官架閣為名或遇其廢則以省郎兼之否則以六部監門兼之徐天麟清江人開禧初進士累官武學博士論對言人主當持心以敬通判惠潭二州權英徳府所至興學明教有惠政著兩漢㑹要漢兵夲末西漢地理疏山經等書, SBCK: ''}
   - {type: punctuation, offset: 3740, content: /, id: KR4d0323_krp_006-bkkpn431}
@@ -1309,6 +1385,7 @@ markers:
   - {type: substitution, offset: 3862, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: punctuation, offset: 3870, content: (, id: KR4d0323_krp_006-bkkpn442}
   - {type: variant, offset: 3870, length: 22, content: 鄒陽傳使者冠葢相望杜詩悄悄憶京華又旅食京華春, SBCK: ''}
+  - {type: voice, offset: 3870, length: 22, name: note, id: n77}
   - {type: substitution, offset: 3876, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: punctuation, offset: 3881, content: /, id: KR4d0323_krp_006-bkkpn443}
   - {type: punctuation, offset: 3892, content: ), id: KR4d0323_krp_006-bkkpn444}
@@ -1318,6 +1395,7 @@ markers:
   - {type: line-break, offset: 3892, content: '', id: KR4d0323_WYG_006-8a06}
   - {type: variant, offset: 3900, length: 18, content: 為僚漢刑法志文書盈於几閣典者不能徧覩, SBCK: 爲寮}
   - {type: punctuation, offset: 3902, content: (, id: KR4d0323_krp_006-bkkpn445}
+  - {type: voice, offset: 3902, length: 16, name: note, id: n78}
   - {type: punctuation, offset: 3910, content: /, id: KR4d0323_krp_006-bkkpn446}
   - {type: substitution, offset: 3916, original: 徧, replacement: 遍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17526}}
   - {type: punctuation, offset: 3918, content: ), id: KR4d0323_krp_006-bkkpn447}
@@ -1328,6 +1406,7 @@ markers:
   - {type: variant, offset: 3922, length: 1, content: 俎, SBCK: 爼}
   - {type: punctuation, offset: 3940, content: (, id: KR4d0323_krp_006-bkkpn448}
   - {type: variant, offset: 3940, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 3940, length: 3, name: note, id: n79}
   - {type: punctuation, offset: 3942, content: /, id: KR4d0323_krp_006-bkkpn449}
   - {type: punctuation, offset: 3943, content: ), id: KR4d0323_krp_006-bkkpn450}
   - {type: 'kr:newline', offset: 3943, content: '
@@ -1340,6 +1419,7 @@ markers:
   - {type: variant, offset: 3957, length: 1, content: 高, SBCK: 髙}
   - {type: punctuation, offset: 3961, content: (, id: KR4d0323_krp_006-bkkpn451}
   - {type: variant, offset: 3961, length: 42, content: 徐穉傳郭林宗有母憂穉徃弔之置生芻一束於廬前而去衆怪不知其故林宗曰此必南州高士徐孺子也, SBCK: ''}
+  - {type: voice, offset: 3961, length: 42, name: note, id: n80}
   - {type: substitution, offset: 3962, original: 穉, replacement: 稚, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17613}}
   - {type: punctuation, offset: 3964, content: /, id: KR4d0323_krp_006-bkkpn452}
   - {type: punctuation, offset: 3967, content: ), id: KR4d0323_krp_006-bkkpn453}
@@ -1362,6 +1442,7 @@ markers:
   - {type: line-break, offset: 4006, content: '', id: KR4d0323_WYG_006-8b02}
   - {type: punctuation, offset: 4009, content: (, id: KR4d0323_krp_006-bkkpn457}
   - {type: variant, offset: 4009, length: 18, content: 天麟為徐夢筆商老從子西園先生葢其父也, SBCK: ''}
+  - {type: voice, offset: 4009, length: 18, name: note, id: n81}
   - {type: punctuation, offset: 4018, content: /, id: KR4d0323_krp_006-bkkpn458}
   - {type: substitution, offset: 4023, original: 葢, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19539}}
   - {type: punctuation, offset: 4027, content: ), id: KR4d0323_krp_006-bkkpn459}
@@ -1375,6 +1456,7 @@ markers:
   - {type: substitution, offset: 4036, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: punctuation, offset: 4039, content: (, id: KR4d0323_krp_006-bkkpn460}
   - {type: variant, offset: 4039, length: 145, content: 魏志徐邈字景山魏國初建為尚書郎時科禁酒而邈私飲校事趙達問以曹事邈曰中聖人太祖甚怒盧欽著書稱邈曰或問欽徐公當武帝時人以為通自在涼州及還京師人以為介何也欽曰徃者毛孝先崔季珪等用事貴清素之士皆變易車服以求名高而徐公不改其常故人以為通比來天下奢靡轉相效倣而徐公雅尚自若不與俗同故前日之通乃今日之介也, SBCK: ''}
+  - {type: voice, offset: 4039, length: 145, name: note, id: n82}
   - {type: punctuation, offset: 4057, content: /, id: KR4d0323_krp_006-bkkpn461}
   - {type: punctuation, offset: 4075, content: ), id: KR4d0323_krp_006-bkkpn462}
   - {type: 'kr:newline', offset: 4075, content: '
@@ -1408,6 +1490,7 @@ markers:
   - {type: line-break, offset: 4192, content: '', id: KR4d0323_WYG_006-8b07}
   - {type: punctuation, offset: 4196, content: (, id: KR4d0323_krp_006-bkkpn472}
   - {type: variant, offset: 4196, length: 69, content: 杜陵徐卿二子歌君不見徐卿二子生絶竒感應吉夢相追隨孔子釋氏親抱送並是天上麒麟兒吾知徐公百不憂積善衮衮生公矦丈夫生兒有如此二雛者名位豈肯卑微休, SBCK: ''}
+  - {type: voice, offset: 4196, length: 69, name: note, id: n83}
   - {type: punctuation, offset: 4213, content: /, id: KR4d0323_krp_006-bkkpn473}
   - {type: punctuation, offset: 4230, content: ), id: KR4d0323_krp_006-bkkpn474}
   - {type: 'kr:newline', offset: 4230, content: '
@@ -1427,6 +1510,7 @@ markers:
   - {type: line-break, offset: 4268, content: '', id: KR4d0323_WYG_006-9a01}
   - {type: punctuation, offset: 4271, content: (, id: KR4d0323_krp_006-bkkpn478}
   - {type: variant, offset: 4271, length: 48, content: 西京雜記平律矦三館一曰欽賢次曰翹材次曰接士東坡詩三館曝書防蠧毁注三館謂昭文集賢史館總名崇文院也已, SBCK: 巳}
+  - {type: voice, offset: 4271, length: 47, name: note, id: n84}
   - {type: punctuation, offset: 4289, content: /, id: KR4d0323_krp_006-bkkpn479}
   - {type: punctuation, offset: 4307, content: ), id: KR4d0323_krp_006-bkkpn480}
   - {type: 'kr:newline', offset: 4307, content: '
@@ -1443,6 +1527,7 @@ markers:
   - {type: line-break, offset: 4333, content: '', id: KR4d0323_WYG_006-9a03}
   - {type: variant, offset: 4333, length: 44, content: 掌故匡衡傳衡射䇿甲科不應令儒林傳歲課甲科四十人為郎中乙科二十人為太子舍人丙科四十人補文學, SBCK: ''}
   - {type: punctuation, offset: 4335, content: (, id: KR4d0323_krp_006-bkkpn484}
+  - {type: voice, offset: 4335, length: 44, name: note, id: n85}
   - {type: punctuation, offset: 4354, content: /, id: KR4d0323_krp_006-bkkpn485}
   - {type: punctuation, offset: 4373, content: ), id: KR4d0323_krp_006-bkkpn486}
   - {type: 'kr:newline', offset: 4373, content: '
@@ -1455,6 +1540,7 @@ markers:
   - {type: page-break, offset: 4380, content: '', id: KR4d0323_SBCK_006-3b}
   - {type: punctuation, offset: 4390, content: (, id: KR4d0323_krp_006-bkkpn490}
   - {type: variant, offset: 4390, length: 17, content: 揚雄傳藉翰林以為主人子墨為客卿以風, SBCK: ''}
+  - {type: voice, offset: 4390, length: 17, name: note, id: n86}
   - {type: punctuation, offset: 4397, content: /, id: KR4d0323_krp_006-bkkpn491}
   - {type: punctuation, offset: 4404, content: ), id: KR4d0323_krp_006-bkkpn492}
   - {type: 'kr:newline', offset: 4404, content: '
@@ -1467,6 +1553,7 @@ markers:
   - {type: variant, offset: 4409, length: 1, content: 獲, SBCK: 􅀗}
   - {type: variant, offset: 4411, length: 69, content: 龜應劭漢官儀云印者因也龜者隂也抱甲負文隨時蟄藏以示臣道功成而退衛宏漢舊儀中二千石銀印龜紐大𤣥經龜緺孔愉傳印龜左顧梁陸倕敎謬叨龜組竊願已祗眞, SBCK: 􅀛真}
   - {type: punctuation, offset: 4412, content: (, id: KR4d0323_krp_006-bkkpn496}
+  - {type: voice, offset: 4412, length: 67, name: note, id: n87}
   - {type: punctuation, offset: 4426, content: /, id: KR4d0323_krp_006-bkkpn497}
   - {type: punctuation, offset: 4440, content: ), id: KR4d0323_krp_006-bkkpn498}
   - {type: 'kr:newline', offset: 4440, content: '
@@ -1486,6 +1573,7 @@ markers:
   - {type: line-break, offset: 4480, content: '', id: KR4d0323_WYG_006-9a07}
   - {type: variant, offset: 4482, length: 72, content: 驥史記伯夷傳顔淵雖篤學附驥尾而行益顯漢書樊酈傳贊方其鼓刀僕御販繒之時豈自知附驥之尾勒功帝籍慶流子孫哉後漢書隗囂傳蒼蠅之飛不過數歩即託驥尾得以絶塵, SBCK: 􅂹}
   - {type: punctuation, offset: 4483, content: (, id: KR4d0323_krp_006-bkkpn502}
+  - {type: voice, offset: 4483, length: 71, name: note, id: n88}
   - {type: punctuation, offset: 4501, content: /, id: KR4d0323_krp_006-bkkpn503}
   - {type: punctuation, offset: 4519, content: ), id: KR4d0323_krp_006-bkkpn504}
   - {type: 'kr:newline', offset: 4519, content: '
@@ -1506,6 +1594,7 @@ markers:
   - {type: line-break, offset: 4557, content: '', id: KR4d0323_WYG_006-9b01}
   - {type: punctuation, offset: 4567, content: (, id: KR4d0323_krp_006-bkkpn508}
   - {type: variant, offset: 4567, length: 19, content: 史記老子傳始秦與周合而離離五百歲而復合, SBCK: ''}
+  - {type: voice, offset: 4567, length: 19, name: note, id: n89}
   - {type: punctuation, offset: 4577, content: /, id: KR4d0323_krp_006-bkkpn509}
   - {type: punctuation, offset: 4586, content: ), id: KR4d0323_krp_006-bkkpn510}
   - {type: 'kr:newline', offset: 4587, content: '
@@ -1514,6 +1603,7 @@ markers:
   - {type: line-break, offset: 4587, content: '', id: KR4d0323_WYG_006-9b02}
   - {type: punctuation, offset: 4599, content: (, id: KR4d0323_krp_006-bkkpn511}
   - {type: variant, offset: 4599, length: 56, content: 盧仝與馬異結交歌昨日仝不仝異不異是謂大同而小異今日仝自仝異自異是謂仝不往兮異不至韓詩往年弄筆嘲同異怪辭驚衆嘲不已, SBCK: ''}
+  - {type: voice, offset: 4599, length: 56, name: note, id: n90}
   - {type: substitution, offset: 4600, original: 仝, replacement: 同, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16340}}
   - {type: punctuation, offset: 4608, content: /, id: KR4d0323_krp_006-bkkpn512}
   - {type: substitution, offset: 4609, original: 仝, replacement: 同, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16340}}
@@ -1535,6 +1625,7 @@ markers:
   - {type: line-break, offset: 4655, content: '', id: KR4d0323_WYG_006-9b04}
   - {type: indent, offset: 4655, content: 　　, id: KR4d0323_krp_006-bkkind17}
   - {type: punctuation, offset: 4659, content: (, id: KR4d0323_krp_006-bkkpn517}
+  - {type: voice, offset: 4659, length: 1, name: note, id: n91}
   - {type: punctuation, offset: 4660, content: /, id: KR4d0323_krp_006-bkkpn518}
   - {type: punctuation, offset: 4660, content: ), id: KR4d0323_krp_006-bkkpn519}
   - {type: 'kr:newline', offset: 4660, content: '
@@ -1543,6 +1634,7 @@ markers:
   - {type: line-break, offset: 4660, content: '', id: KR4d0323_WYG_006-9b05}
   - {type: punctuation, offset: 4672, content: (, id: KR4d0323_krp_006-bkkpn520}
   - {type: variant, offset: 4672, length: 88, content: 南史蜀士李膺有才辯西昌矦藻使至都武帝謂曰今李膺何如昔李膺對曰今勝昔昔事桓靈之主今逢堯舜之君帝嘉其對以為益州别駕詳見前屈原漁父屈原既放行吟澤畔顔色憔悴漁父見而問之曰子非三閭大夫與, SBCK: ''}
+  - {type: voice, offset: 4672, length: 88, name: note, id: n92}
   - {type: substitution, offset: 4680, original: 辯, replacement: 辨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20391}}
   - {type: punctuation, offset: 4681, content: /, id: KR4d0323_krp_006-bkkpn521}
   - {type: punctuation, offset: 4690, content: ), id: KR4d0323_krp_006-bkkpn522}
@@ -1568,6 +1660,7 @@ markers:
   - {type: line-break, offset: 4767, content: '', id: KR4d0323_WYG_006-9b08}
   - {type: punctuation, offset: 4772, content: (, id: KR4d0323_krp_006-bkkpn529}
   - {type: variant, offset: 4772, length: 37, content: 新唐書魏徴傳徴五世孫謩為宰相議事讜切無所囘畏宣宗甞曰謩名臣孫有祖風朕心憚之, SBCK: ''}
+  - {type: voice, offset: 4772, length: 37, name: note, id: n93}
   - {type: substitution, offset: 4782, original: 謩, replacement: 謨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18512}}
   - {type: punctuation, offset: 4788, content: /, id: KR4d0323_krp_006-bkkpn530}
   - {type: substitution, offset: 4792, original: 囘, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20167}}
@@ -1588,6 +1681,7 @@ markers:
   - {type: variant, offset: 4812, length: 1, content: 龜, SBCK: 􅀛}
   - {type: punctuation, offset: 4821, content: (, id: KR4d0323_krp_006-bkkpn535}
   - {type: variant, offset: 4821, length: 4, content: 並見前恭, SBCK: 㳟}
+  - {type: voice, offset: 4821, length: 3, name: note, id: n94}
   - {type: punctuation, offset: 4823, content: /, id: KR4d0323_krp_006-bkkpn536}
   - {type: punctuation, offset: 4824, content: ), id: KR4d0323_krp_006-bkkpn537}
   - {type: 'kr:newline', offset: 4828, content: '
@@ -1597,12 +1691,14 @@ markers:
   - {type: substitution, offset: 4830, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 4832, content: (, id: KR4d0323_krp_006-bkkpn538}
   - {type: variant, offset: 4832, length: 24, content: 翰苑新書漢丞相金印紫綬黄扉黒幡所以異車服於百辟也, SBCK: ''}
+  - {type: voice, offset: 4832, length: 24, name: note, id: n95}
   - {type: substitution, offset: 4843, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: punctuation, offset: 4844, content: /, id: KR4d0323_krp_006-bkkpn539}
   - {type: substitution, offset: 4845, original: 黒, replacement: 黑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19580}}
   - {type: punctuation, offset: 4856, content: ), id: KR4d0323_krp_006-bkkpn540}
   - {type: punctuation, offset: 4860, content: (, id: KR4d0323_krp_006-bkkpn541}
   - {type: variant, offset: 4860, length: 47, content: 吾丘壽王傳由窮巷起白屋師古曰白屋以白茅覆屋也蕭望之傳致白屋之意師古曰謂白葢之屋以茅覆之賤人所居, SBCK: ''}
+  - {type: voice, offset: 4860, length: 47, name: note, id: n96}
   - {type: punctuation, offset: 4861, content: /, id: KR4d0323_krp_006-bkkpn542}
   - {type: punctuation, offset: 4862, content: ), id: KR4d0323_krp_006-bkkpn543}
   - {type: 'kr:newline', offset: 4862, content: '
@@ -1623,6 +1719,7 @@ markers:
   - {type: variant, offset: 4915, length: 1, content: 世, SBCK: 丗}
   - {type: punctuation, offset: 4917, content: (, id: KR4d0323_krp_006-bkkpn550}
   - {type: variant, offset: 4917, length: 25, content: 新唐書魏謩傳謩之議論挺挺有祖風烈詩所謂是以似之者歟, SBCK: ''}
+  - {type: voice, offset: 4917, length: 25, name: note, id: n97}
   - {type: substitution, offset: 4921, original: 謩, replacement: 謨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18512}}
   - {type: substitution, offset: 4923, original: 謩, replacement: 謨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18512}}
   - {type: punctuation, offset: 4926, content: /, id: KR4d0323_krp_006-bkkpn551}
@@ -1637,6 +1734,7 @@ markers:
   - {type: variant, offset: 4943, length: 1, content: 袖, SBCK: 䄂}
   - {type: punctuation, offset: 4952, content: (, id: KR4d0323_krp_006-bkkpn556}
   - {type: variant, offset: 4952, length: 140, content: 魏舒傳少孤為外家甯氏所養甯氏造宅相宅者云當出貴甥外祖母以魏氏甥小而慧意謂應之舒曰當為外家成此宅相為相國參軍文帝深器重之每朝會目送之曰魏舒堂堂人之領袖也梁書王規傳規子褎七歲能屬文外祖袁昻重之謂賓客曰此兒當成吾宅相北史李繪傳舅邢晏與繪清談歎其高逺每歎曰若披雲霧如對珠玉宅相之寄良在此矣, SBCK: ''}
+  - {type: voice, offset: 4952, length: 140, name: note, id: n98}
   - {type: punctuation, offset: 4959, content: /, id: KR4d0323_krp_006-bkkpn557}
   - {type: substitution, offset: 4960, original: 甯, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16283}}
   - {type: substitution, offset: 4964, original: 甯, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16283}}
@@ -1673,11 +1771,13 @@ markers:
   - {type: variant, offset: 5094, length: 1, content: 篪, SBCK: 箎}
   - {type: punctuation, offset: 5098, content: (, id: KR4d0323_krp_006-bkkpn568}
   - {type: variant, offset: 5098, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 5098, length: 2, name: note, id: n99}
   - {type: punctuation, offset: 5099, content: /, id: KR4d0323_krp_006-bkkpn569}
   - {type: punctuation, offset: 5100, content: ), id: KR4d0323_krp_006-bkkpn570}
   - {type: variant, offset: 5104, length: 1, content: 高, SBCK: 髙}
   - {type: punctuation, offset: 5106, content: (, id: KR4d0323_krp_006-bkkpn571}
   - {type: variant, offset: 5106, length: 36, content: 爾雅王父之考為曽祖王父曽祖王父之考為高祖王父晉書周訪傳贊曰子曰孫重規疊矩, SBCK: ''}
+  - {type: voice, offset: 5106, length: 36, name: note, id: n100}
   - {type: punctuation, offset: 5114, content: /, id: KR4d0323_krp_006-bkkpn572}
   - {type: punctuation, offset: 5122, content: ), id: KR4d0323_krp_006-bkkpn573}
   - {type: 'kr:newline', offset: 5122, content: '
@@ -1689,6 +1789,7 @@ markers:
   - {type: punctuation, offset: 5142, content: ), id: KR4d0323_krp_006-bkkpn576}
   - {type: punctuation, offset: 5146, content: (, id: KR4d0323_krp_006-bkkpn577}
   - {type: variant, offset: 5146, length: 42, content: 蜀志馬良字季常襄陽人兄弟五人並有才名鄉里為之諺曰馬氏五常白眉最良良眉中有白毛故以稱之, SBCK: ''}
+  - {type: voice, offset: 5146, length: 42, name: note, id: n101}
   - {type: punctuation, offset: 5153, content: /, id: KR4d0323_krp_006-bkkpn578}
   - {type: punctuation, offset: 5160, content: ), id: KR4d0323_krp_006-bkkpn579}
   - {type: 'kr:newline', offset: 5160, content: '
@@ -1701,6 +1802,7 @@ markers:
   - {type: substitution, offset: 5188, original: 黒, replacement: 黑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19580}}
   - {type: punctuation, offset: 5192, content: (, id: KR4d0323_krp_006-bkkpn583}
   - {type: variant, offset: 5192, length: 59, content: 晉書諸葛恢傳弱冠知名庾亮甞謂曰明府當為黒頭三公王珣傳桓温謂之曰王掾當作黒頭公北史元彧傳崔光見彧謂人曰黒頭三公必此人也顧, SBCK: 頋}
+  - {type: voice, offset: 5192, length: 58, name: note, id: n102}
   - {type: punctuation, offset: 5195, content: /, id: KR4d0323_krp_006-bkkpn584}
   - {type: punctuation, offset: 5198, content: ), id: KR4d0323_krp_006-bkkpn585}
   - {type: 'kr:newline', offset: 5198, content: '
@@ -1725,6 +1827,7 @@ markers:
   - {type: substitution, offset: 5255, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: punctuation, offset: 5256, content: (, id: KR4d0323_krp_006-bkkpn592}
   - {type: variant, offset: 5256, length: 65, content: 崑崙山有三角其一正北干星辰之輝曰閬風巔其一正西曰𤣥圃臺其一正東名崑崙宫皆仙人所居張衡賦似閬風之遐坂杜詩閬風𤣥圃與蓬壺中有高堂天下無, SBCK: ''}
+  - {type: voice, offset: 5256, length: 65, name: note, id: n103}
   - {type: punctuation, offset: 5266, content: /, id: KR4d0323_krp_006-bkkpn593}
   - {type: punctuation, offset: 5276, content: ), id: KR4d0323_krp_006-bkkpn594}
   - {type: 'kr:newline', offset: 5276, content: '
@@ -1745,6 +1848,7 @@ markers:
   - {type: punctuation, offset: 5321, content: ), id: KR4d0323_krp_006-bkkpn600}
   - {type: punctuation, offset: 5327, content: (, id: KR4d0323_krp_006-bkkpn601}
   - {type: variant, offset: 5327, length: 9, content: 栁文武岡銘巫水之磻, SBCK: ''}
+  - {type: voice, offset: 5327, length: 9, name: note, id: n104}
   - {type: punctuation, offset: 5332, content: /, id: KR4d0323_krp_006-bkkpn602}
   - {type: punctuation, offset: 5336, content: ), id: KR4d0323_krp_006-bkkpn603}
   - {type: 'kr:newline', offset: 5344, content: '
@@ -1753,6 +1857,7 @@ markers:
   - {type: line-break, offset: 5344, content: '', id: KR4d0323_WYG_006-10b08}
   - {type: punctuation, offset: 5349, content: (, id: KR4d0323_krp_006-bkkpn604}
   - {type: variant, offset: 5349, length: 25, content: 王右軍蘭亭序羣賢畢至少長咸集此地有崇山峻嶺茂林修竹, SBCK: ''}
+  - {type: voice, offset: 5349, length: 25, name: note, id: n105}
   - {type: punctuation, offset: 5362, content: /, id: KR4d0323_krp_006-bkkpn605}
   - {type: punctuation, offset: 5374, content: ), id: KR4d0323_krp_006-bkkpn606}
   - {type: page-break, offset: 5375, content: '', id: KR4d0323_SBCK_006-4a}
@@ -1768,10 +1873,12 @@ markers:
   - {type: variant, offset: 5383, length: 1, content: 别, SBCK: 別}
   - {type: punctuation, offset: 5387, content: (, id: KR4d0323_krp_006-bkkpn607}
   - {type: variant, offset: 5387, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 5387, length: 2, name: note, id: n106}
   - {type: punctuation, offset: 5388, content: /, id: KR4d0323_krp_006-bkkpn608}
   - {type: punctuation, offset: 5389, content: ), id: KR4d0323_krp_006-bkkpn609}
   - {type: variant, offset: 5391, length: 14, content: 為乎來哉李詩嗟爾逺道之人何為, SBCK: 爲}
   - {type: punctuation, offset: 5395, content: (, id: KR4d0323_krp_006-bkkpn610}
+  - {type: voice, offset: 5395, length: 13, name: note, id: n107}
   - {type: punctuation, offset: 5399, content: /, id: KR4d0323_krp_006-bkkpn611}
   - {type: punctuation, offset: 5403, content: ), id: KR4d0323_krp_006-bkkpn612}
   - {type: 'kr:newline', offset: 5403, content: '
@@ -1783,6 +1890,7 @@ markers:
   - {type: punctuation, offset: 5408, content: ), id: KR4d0323_krp_006-bkkpn615}
   - {type: punctuation, offset: 5421, content: (, id: KR4d0323_krp_006-bkkpn616}
   - {type: variant, offset: 5421, length: 36, content: 西都賦上觚稜而棲金爵觚稜闕角也東坡詩囘首觚稜一夢中又璧月挂罘罳珠星照觚稜, SBCK: ''}
+  - {type: voice, offset: 5421, length: 36, name: note, id: n108}
   - {type: punctuation, offset: 5426, content: /, id: KR4d0323_krp_006-bkkpn617}
   - {type: punctuation, offset: 5431, content: ), id: KR4d0323_krp_006-bkkpn618}
   - {type: 'kr:newline', offset: 5431, content: '
@@ -1797,6 +1905,7 @@ markers:
   - {type: punctuation, offset: 5464, content: (, id: KR4d0323_krp_006-bkkpn622}
   - {type: variant, offset: 5464, length: 61, content: 黄霸傳别駕車緹油屏豫章列士傳孔恂字巨卿為别駕别駕車舊有屏星如刺史車刺史因怒欲去之恂曰徹去屏星毁國舊儀别駕可去屏星不可去乃止, SBCK: ''}
   - {type: substitution, offset: 5464, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
+  - {type: voice, offset: 5464, length: 61, name: note, id: n109}
   - {type: punctuation, offset: 5465, content: /, id: KR4d0323_krp_006-bkkpn623}
   - {type: punctuation, offset: 5466, content: ), id: KR4d0323_krp_006-bkkpn624}
   - {type: 'kr:newline', offset: 5466, content: '
@@ -1815,10 +1924,12 @@ markers:
   - {type: punctuation, offset: 5525, content: ), id: KR4d0323_krp_006-bkkpn630}
   - {type: punctuation, offset: 5529, content: (, id: KR4d0323_krp_006-bkkpn631}
   - {type: variant, offset: 5529, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 5529, length: 2, name: note, id: n110}
   - {type: punctuation, offset: 5530, content: /, id: KR4d0323_krp_006-bkkpn632}
   - {type: punctuation, offset: 5531, content: ), id: KR4d0323_krp_006-bkkpn633}
   - {type: punctuation, offset: 5535, content: (, id: KR4d0323_krp_006-bkkpn634}
   - {type: variant, offset: 5535, length: 35, content: 漢舊儀天子六璽皆以武都紫泥封之李詩天書降紫泥又銜出紫泥封杜詩亨衢照紫泥, SBCK: ''}
+  - {type: voice, offset: 5535, length: 35, name: note, id: n111}
   - {type: punctuation, offset: 5538, content: /, id: KR4d0323_krp_006-bkkpn635}
   - {type: punctuation, offset: 5541, content: ), id: KR4d0323_krp_006-bkkpn636}
   - {type: 'kr:newline', offset: 5541, content: '
@@ -1837,12 +1948,14 @@ markers:
   - {type: variant, offset: 5577, length: 1, content: 負, SBCK: 􅀒}
   - {type: punctuation, offset: 5579, content: (, id: KR4d0323_krp_006-bkkpn640}
   - {type: variant, offset: 5579, length: 10, content: 韓文余不負丞而丞負余, SBCK: ''}
+  - {type: voice, offset: 5579, length: 10, name: note, id: n112}
   - {type: punctuation, offset: 5584, content: /, id: KR4d0323_krp_006-bkkpn641}
   - {type: punctuation, offset: 5589, content: ), id: KR4d0323_krp_006-bkkpn642}
   - {type: variant, offset: 5591, length: 1, content: 久, SBCK: 乆}
   - {type: variant, offset: 5592, length: 1, content: 笑, SBCK: 􅀏}
   - {type: punctuation, offset: 5596, content: (, id: KR4d0323_krp_006-bkkpn643}
   - {type: variant, offset: 5596, length: 18, content: 北山移文蕙帳空兮夜鶴怨山人去兮暁猿驚, SBCK: ''}
+  - {type: voice, offset: 5596, length: 18, name: note, id: n113}
   - {type: punctuation, offset: 5602, content: /, id: KR4d0323_krp_006-bkkpn644}
   - {type: punctuation, offset: 5608, content: ), id: KR4d0323_krp_006-bkkpn645}
   - {type: 'kr:newline', offset: 5608, content: '
@@ -1857,6 +1970,7 @@ markers:
   - {type: substitution, offset: 5616, original: 忻, replacement: 欣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19812}}
   - {type: variant, offset: 5620, length: 7, content: 鳯杜詩佇鳴南嶽, SBCK: ''}
   - {type: punctuation, offset: 5621, content: (, id: KR4d0323_krp_006-bkkpn649}
+  - {type: voice, offset: 5621, length: 7, name: note, id: n114}
   - {type: punctuation, offset: 5625, content: /, id: KR4d0323_krp_006-bkkpn650}
   - {type: punctuation, offset: 5628, content: ), id: KR4d0323_krp_006-bkkpn651}
   - {type: 'kr:newline', offset: 5635, content: '
@@ -1870,6 +1984,7 @@ markers:
   - {type: variant, offset: 5648, length: 1, content: 瓜, SBCK: 􅀲}
   - {type: punctuation, offset: 5651, content: (, id: KR4d0323_krp_006-bkkpn652}
   - {type: variant, offset: 5651, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 5651, length: 3, name: note, id: n115}
   - {type: punctuation, offset: 5653, content: /, id: KR4d0323_krp_006-bkkpn653}
   - {type: punctuation, offset: 5654, content: ), id: KR4d0323_krp_006-bkkpn654}
   - {type: 'kr:newline', offset: 5657, content: '
@@ -1878,6 +1993,7 @@ markers:
   - {type: line-break, offset: 5657, content: '', id: KR4d0323_WYG_006-11b02}
   - {type: punctuation, offset: 5665, content: (, id: KR4d0323_krp_006-bkkpn655}
   - {type: variant, offset: 5665, length: 8, content: 鄧攸傳謝令推不去, SBCK: ''}
+  - {type: voice, offset: 5665, length: 8, name: note, id: n116}
   - {type: punctuation, offset: 5669, content: /, id: KR4d0323_krp_006-bkkpn656}
   - {type: punctuation, offset: 5673, content: ), id: KR4d0323_krp_006-bkkpn657}
   - {type: 'kr:newline', offset: 5673, content: '
@@ -1887,6 +2003,7 @@ markers:
   - {type: indent, offset: 5673, content: 　　, id: KR4d0323_krp_006-bkkind18}
   - {type: substitution, offset: 5679, original: 譚, replacement: 談, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20152}}
   - {type: punctuation, offset: 5682, content: (, id: KR4d0323_krp_006-bkkpn658}
+  - {type: voice, offset: 5682, length: 2, name: note, id: n117}
   - {type: punctuation, offset: 5684, content: /, id: KR4d0323_krp_006-bkkpn659}
   - {type: punctuation, offset: 5684, content: ), id: KR4d0323_krp_006-bkkpn660}
   - {type: 'kr:newline', offset: 5684, content: '
@@ -1896,6 +2013,7 @@ markers:
   - {type: variant, offset: 5685, length: 1, content: 濱, SBCK: 濵}
   - {type: punctuation, offset: 5694, content: (, id: KR4d0323_krp_006-bkkpn661}
   - {type: variant, offset: 5694, length: 45, content: 高祖紀及壯試吏注初官曰試吏昆通作晜説文周人謂兄曰昆儀禮疏昆兄也杜詩戮力自元昆韓文受命于元兄, SBCK: ''}
+  - {type: voice, offset: 5694, length: 45, name: note, id: n118}
   - {type: punctuation, offset: 5705, content: /, id: KR4d0323_krp_006-bkkpn662}
   - {type: punctuation, offset: 5716, content: ), id: KR4d0323_krp_006-bkkpn663}
   - {type: 'kr:newline', offset: 5716, content: '
@@ -1911,6 +2029,7 @@ markers:
   - {type: line-break, offset: 5748, content: '', id: KR4d0323_WYG_006-11b06}
   - {type: punctuation, offset: 5749, content: (, id: KR4d0323_krp_006-bkkpn667}
   - {type: variant, offset: 5749, length: 46, content: 武岡銘序黔巫東鄙藍田縣丞㕔壁記再轉而為丞兹邑左傳王子圍寡君之貴介弟也劉伶傳貴介公子縉紳處士既, SBCK: 旣}
+  - {type: voice, offset: 5749, length: 45, name: note, id: n119}
   - {type: substitution, offset: 5761, original: 㕔, replacement: 廳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-1659}}
   - {type: punctuation, offset: 5769, content: /, id: KR4d0323_krp_006-bkkpn668}
   - {type: punctuation, offset: 5789, content: ), id: KR4d0323_krp_006-bkkpn669}
@@ -1925,6 +2044,7 @@ markers:
   - {type: substitution, offset: 5798, original: 瓈, replacement: 璃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17663}}
   - {type: punctuation, offset: 5801, content: (, id: KR4d0323_krp_006-bkkpn673}
   - {type: variant, offset: 5801, length: 64, content: 東坡詩我家眉山隂與子同一邦相望六十里共飲玻瓈江今按玻瓈江在眉州蟇頥山下即岷江也源出岷山瑩若玻瓈因名一名蟇頥津即唐田令孜沈孟昭圗處, SBCK: ''}
+  - {type: voice, offset: 5801, length: 64, name: note, id: n120}
   - {type: punctuation, offset: 5812, content: /, id: KR4d0323_krp_006-bkkpn674}
   - {type: substitution, offset: 5822, original: 瓈, replacement: 璃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17663}}
   - {type: punctuation, offset: 5823, content: ), id: KR4d0323_krp_006-bkkpn675}
@@ -1947,6 +2067,7 @@ markers:
   - {type: line-break, offset: 5865, content: '', id: KR4d0323_WYG_006-12a01}
   - {type: punctuation, offset: 5872, content: (, id: KR4d0323_krp_006-bkkpn679}
   - {type: variant, offset: 5872, length: 22, content: 昌黎陪杜侍御游湘西兩寺詩深林高玲瓏青山上琬琰, SBCK: ''}
+  - {type: voice, offset: 5872, length: 22, name: note, id: n121}
   - {type: substitution, offset: 5878, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 5883, content: /, id: KR4d0323_krp_006-bkkpn680}
   - {type: punctuation, offset: 5894, content: ), id: KR4d0323_krp_006-bkkpn681}
@@ -1957,6 +2078,7 @@ markers:
   - {type: variant, offset: 5899, length: 1, content: 辭, SBCK: 辝}
   - {type: punctuation, offset: 5910, content: (, id: KR4d0323_krp_006-bkkpn682}
   - {type: variant, offset: 5910, length: 34, content: 梁史何昌寓為吏部尚書有閔姓求官者昌寓問是誰後曰閔子騫昌寓笑曰遥遥華胄, SBCK: ''}
+  - {type: voice, offset: 5910, length: 34, name: note, id: n122}
   - {type: punctuation, offset: 5918, content: /, id: KR4d0323_krp_006-bkkpn683}
   - {type: punctuation, offset: 5926, content: ), id: KR4d0323_krp_006-bkkpn684}
   - {type: 'kr:newline', offset: 5926, content: '
@@ -1971,6 +2093,7 @@ markers:
   - {type: variant, offset: 5946, length: 1, content: 高, SBCK: 髙}
   - {type: punctuation, offset: 5948, content: (, id: KR4d0323_krp_006-bkkpn688}
   - {type: variant, offset: 5948, length: 20, content: 禮記有虞氏養國老于上庠注上庠太學也在西郊, SBCK: ''}
+  - {type: voice, offset: 5948, length: 20, name: note, id: n123}
   - {type: punctuation, offset: 5956, content: /, id: KR4d0323_krp_006-bkkpn689}
   - {type: punctuation, offset: 5964, content: ), id: KR4d0323_krp_006-bkkpn690}
   - {type: 'kr:newline', offset: 5964, content: '
@@ -1983,6 +2106,7 @@ markers:
   - {type: page-break, offset: 5971, content: '', id: KR4d0323_SBCK_006-4b}
   - {type: punctuation, offset: 5979, content: (, id: KR4d0323_krp_006-bkkpn694}
   - {type: variant, offset: 5979, length: 12, content: 韓詩連年收科第若摘頷下髭, SBCK: ''}
+  - {type: voice, offset: 5979, length: 12, name: note, id: n124}
   - {type: punctuation, offset: 5985, content: /, id: KR4d0323_krp_006-bkkpn695}
   - {type: punctuation, offset: 5991, content: ), id: KR4d0323_krp_006-bkkpn696}
   - {type: 'kr:newline', offset: 5993, content: '
@@ -1991,6 +2115,7 @@ markers:
   - {type: line-break, offset: 5993, content: '', id: KR4d0323_WYG_006-12a05}
   - {type: punctuation, offset: 6002, content: (, id: KR4d0323_krp_006-bkkpn697}
   - {type: variant, offset: 6002, length: 32, content: 詩兄及弟矣式相好矣無相猶矣又維此王季因心則友則友其兄注善兄弟曰友, SBCK: ''}
+  - {type: voice, offset: 6002, length: 32, name: note, id: n125}
   - {type: punctuation, offset: 6014, content: /, id: KR4d0323_krp_006-bkkpn698}
   - {type: punctuation, offset: 6026, content: ), id: KR4d0323_krp_006-bkkpn699}
   - {type: 'kr:newline', offset: 6026, content: '
@@ -2003,6 +2128,7 @@ markers:
   - {type: substitution, offset: 6037, original: 䕃, replacement: 蔭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4707}}
   - {type: variant, offset: 6039, length: 46, content: 清淮南子盥汗交流休樾䕃則脱然而喜注樹如車葢狀為樾言多隂也又武王䕃暍人于樾下而天下懐之感于恩也, SBCK: 淸}
   - {type: punctuation, offset: 6040, content: (, id: KR4d0323_krp_006-bkkpn703}
+  - {type: voice, offset: 6040, length: 45, name: note, id: n126}
   - {type: substitution, offset: 6049, original: 䕃, replacement: 蔭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4707}}
   - {type: punctuation, offset: 6051, content: /, id: KR4d0323_krp_006-bkkpn704}
   - {type: substitution, offset: 6051, original: 脱, replacement: 脫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19795}}
@@ -2019,6 +2145,7 @@ markers:
   - {type: punctuation, offset: 6085, content: ), id: KR4d0323_krp_006-bkkpn708}
   - {type: punctuation, offset: 6091, content: (, id: KR4d0323_krp_006-bkkpn709}
   - {type: variant, offset: 6091, length: 17, content: 詩棠棣之華鄂不韡韡凡今之人莫如兄弟, SBCK: ''}
+  - {type: voice, offset: 6091, length: 17, name: note, id: n127}
   - {type: punctuation, offset: 6094, content: /, id: KR4d0323_krp_006-bkkpn710}
   - {type: punctuation, offset: 6097, content: ), id: KR4d0323_krp_006-bkkpn711}
   - {type: 'kr:newline', offset: 6097, content: '
@@ -2031,6 +2158,7 @@ markers:
   - {type: variant, offset: 6110, length: 1, content: 糾, SBCK: 紏}
   - {type: punctuation, offset: 6114, content: (, id: KR4d0323_krp_006-bkkpn715}
   - {type: variant, offset: 6114, length: 17, content: 糾吉酉切或作糺察也周禮大司徒糾萬民, SBCK: ''}
+  - {type: voice, offset: 6114, length: 17, name: note, id: n128}
   - {type: substitution, offset: 6120, original: 糺, replacement: 糾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16297}}
   - {type: punctuation, offset: 6123, content: /, id: KR4d0323_krp_006-bkkpn716}
   - {type: punctuation, offset: 6131, content: ), id: KR4d0323_krp_006-bkkpn717}
@@ -2044,6 +2172,7 @@ markers:
   - {type: line-break, offset: 6131, content: '', id: KR4d0323_WYG_006-12b01}
   - {type: variant, offset: 6136, length: 98, content: 權職官分紀闕宗時中丞孫汴上言通判古監郡闕一州利害全籍論議與近下僚屬不同乞今後闕曰州郡設通判夲與闕移藩鎭不得奏辟通判上判一郡之事知州有不法者得舉奏之今既辟闕必不執守卿言極闕只恩地事有不可得辟簽判一員, SBCK: 􅁠}
   - {type: punctuation, offset: 6137, content: (, id: KR4d0323_krp_006-bkkpn718}
+  - {type: voice, offset: 6137, length: 97, name: note, id: n129}
   - {type: punctuation, offset: 6152, content: /, id: KR4d0323_krp_006-bkkpn719}
   - {type: punctuation, offset: 6166, content: ), id: KR4d0323_krp_006-bkkpn720}
   - {type: 'kr:newline', offset: 6166, content: '
@@ -2075,10 +2204,12 @@ markers:
   - {type: line-break, offset: 6238, content: '', id: KR4d0323_WYG_006-12b04}
   - {type: punctuation, offset: 6238, content: (, id: KR4d0323_krp_006-bkkpn733}
   - {type: variant, offset: 6238, length: 7, content: 劉向傳章交公車, SBCK: ''}
+  - {type: voice, offset: 6238, length: 7, name: note, id: n130}
   - {type: punctuation, offset: 6242, content: /, id: KR4d0323_krp_006-bkkpn734}
   - {type: punctuation, offset: 6245, content: ), id: KR4d0323_krp_006-bkkpn735}
   - {type: punctuation, offset: 6249, content: (, id: KR4d0323_krp_006-bkkpn736}
   - {type: variant, offset: 6249, length: 25, content: 詩以其介圭入覲于王注以其所藏之大圭入行覲禮而見於王, SBCK: ''}
+  - {type: voice, offset: 6249, length: 25, name: note, id: n131}
   - {type: punctuation, offset: 6262, content: /, id: KR4d0323_krp_006-bkkpn737}
   - {type: punctuation, offset: 6274, content: ), id: KR4d0323_krp_006-bkkpn738}
   - {type: 'kr:newline', offset: 6274, content: '
@@ -2092,6 +2223,7 @@ markers:
   - {type: substitution, offset: 6290, original: 閒, replacement: 間, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16567}}
   - {type: punctuation, offset: 6293, content: (, id: KR4d0323_krp_006-bkkpn739}
   - {type: variant, offset: 6293, length: 52, content: 後漢書儒林傳自安帝覧政薄於藝文愽士倚席不講朋徒相視怠散樊準傳博士倚席不講儒者競論浮麗韓文投閒置散乃分之宜, SBCK: ''}
+  - {type: voice, offset: 6293, length: 52, name: note, id: n132}
   - {type: punctuation, offset: 6295, content: /, id: KR4d0323_krp_006-bkkpn740}
   - {type: punctuation, offset: 6297, content: ), id: KR4d0323_krp_006-bkkpn741}
   - {type: 'kr:newline', offset: 6297, content: '
@@ -2113,6 +2245,7 @@ markers:
   - {type: punctuation, offset: 6345, content: ), id: KR4d0323_krp_006-bkkpn747}
   - {type: punctuation, offset: 6355, content: (, id: KR4d0323_krp_006-bkkpn748}
   - {type: variant, offset: 6355, length: 61, content: 唐中宗授李承嘉户部尚書制栢臺憲府高膺弄印之榮芝甸神州獨著題輿之任中興會要知成都席益奏州郡置倅所以佐郡守之治入則貳政出則按縣, SBCK: ''}
+  - {type: voice, offset: 6355, length: 61, name: note, id: n133}
   - {type: punctuation, offset: 6363, content: /, id: KR4d0323_krp_006-bkkpn749}
   - {type: substitution, offset: 6367, original: 栢, replacement: 柏, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16879}}
   - {type: punctuation, offset: 6371, content: ), id: KR4d0323_krp_006-bkkpn750}
@@ -2137,6 +2270,7 @@ markers:
   - {type: punctuation, offset: 6416, content: ), id: KR4d0323_krp_006-bkkpn756}
   - {type: punctuation, offset: 6430, content: (, id: KR4d0323_krp_006-bkkpn757}
   - {type: variant, offset: 6430, length: 11, content: 孫綽傳沙之汰之瓦石在後, SBCK: ''}
+  - {type: voice, offset: 6430, length: 11, name: note, id: n134}
   - {type: punctuation, offset: 6435, content: /, id: KR4d0323_krp_006-bkkpn758}
   - {type: punctuation, offset: 6440, content: ), id: KR4d0323_krp_006-bkkpn759}
   - {type: 'kr:newline', offset: 6440, content: '
@@ -2155,6 +2289,7 @@ markers:
   - {type: line-break, offset: 6461, content: '', id: KR4d0323_WYG_006-13a03}
   - {type: punctuation, offset: 6463, content: (, id: KR4d0323_krp_006-bkkpn763}
   - {type: variant, offset: 6463, length: 60, content: 王祥傳祥字休徴徐州刺史吕虔檄為别駕委以州事于是冦盜充斥祥討破之州界清静時人歌之曰海沂之康實頼王祥邦國不空别駕之功餘見上條, SBCK: ''}
+  - {type: voice, offset: 6463, length: 60, name: note, id: n135}
   - {type: punctuation, offset: 6482, content: /, id: KR4d0323_krp_006-bkkpn764}
   - {type: substitution, offset: 6497, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20691}}
   - {type: punctuation, offset: 6501, content: ), id: KR4d0323_krp_006-bkkpn765}
@@ -2172,6 +2307,7 @@ markers:
   - {type: line-break, offset: 6523, content: '', id: KR4d0323_WYG_006-13a05}
   - {type: indent, offset: 6523, content: 　　, id: KR4d0323_krp_006-bkkind21}
   - {type: punctuation, offset: 6527, content: (, id: KR4d0323_krp_006-bkkpn769}
+  - {type: voice, offset: 6527, length: 2, name: note, id: n136}
   - {type: punctuation, offset: 6529, content: /, id: KR4d0323_krp_006-bkkpn770}
   - {type: punctuation, offset: 6529, content: ), id: KR4d0323_krp_006-bkkpn771}
   - {type: 'kr:newline', offset: 6529, content: '
@@ -2180,6 +2316,7 @@ markers:
   - {type: line-break, offset: 6529, content: '', id: KR4d0323_WYG_006-13a06}
   - {type: punctuation, offset: 6539, content: (, id: KR4d0323_krp_006-bkkpn772}
   - {type: variant, offset: 6539, length: 23, content: 東坡詩西望太白横岷峨注太白鳯翔山也岷峨蜀山也辭, SBCK: 辝}
+  - {type: voice, offset: 6539, length: 22, name: note, id: n137}
   - {type: substitution, offset: 6546, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
   - {type: punctuation, offset: 6550, content: /, id: KR4d0323_krp_006-bkkpn773}
   - {type: punctuation, offset: 6561, content: ), id: KR4d0323_krp_006-bkkpn774}
@@ -2191,6 +2328,7 @@ markers:
   - {type: variant, offset: 6567, length: 1, content: 幸, SBCK: 來}
   - {type: punctuation, offset: 6571, content: (, id: KR4d0323_krp_006-bkkpn775}
   - {type: variant, offset: 6571, length: 52, content: 昌黎送石處士序先生居嵩邙瀍穀之間東坡詩青衫莫厭百僚底山谷詩李侯畫隱百僚底又法當憔悴百僚底又從軍補掾百僚底, SBCK: ''}
+  - {type: voice, offset: 6571, length: 52, name: note, id: n138}
   - {type: punctuation, offset: 6582, content: /, id: KR4d0323_krp_006-bkkpn776}
   - {type: punctuation, offset: 6593, content: ), id: KR4d0323_krp_006-bkkpn777}
   - {type: 'kr:newline', offset: 6593, content: '
@@ -2211,6 +2349,7 @@ markers:
   - {type: line-break, offset: 6629, content: '', id: KR4d0323_WYG_006-13b01}
   - {type: punctuation, offset: 6630, content: (, id: KR4d0323_krp_006-bkkpn781}
   - {type: variant, offset: 6630, length: 11, content: 法言鴻飛冥冥弋人何簒焉, SBCK: ''}
+  - {type: voice, offset: 6630, length: 11, name: note, id: n139}
   - {type: punctuation, offset: 6636, content: /, id: KR4d0323_krp_006-bkkpn782}
   - {type: substitution, offset: 6639, original: 簒, replacement: 篡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20803}}
   - {type: punctuation, offset: 6641, content: ), id: KR4d0323_krp_006-bkkpn783}
@@ -2218,6 +2357,7 @@ markers:
   - {type: variant, offset: 6643, length: 1, content: 棄, SBCK: 弃}
   - {type: punctuation, offset: 6648, content: (, id: KR4d0323_krp_006-bkkpn784}
   - {type: variant, offset: 6648, length: 58, content: 殷浩傳浩少與桓温齊名而每心競温既以豪傑自許每輕浩浩不知憚也及浩廢温語人曰少時吾與浩共騎竹馬我棄去浩輙取之故當出我下也, SBCK: ''}
+  - {type: voice, offset: 6648, length: 58, name: note, id: n140}
   - {type: punctuation, offset: 6655, content: /, id: KR4d0323_krp_006-bkkpn785}
   - {type: substitution, offset: 6655, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: punctuation, offset: 6662, content: ), id: KR4d0323_krp_006-bkkpn786}
@@ -2240,6 +2380,7 @@ markers:
   - {type: punctuation, offset: 6706, content: ), id: KR4d0323_krp_006-bkkpn792}
   - {type: variant, offset: 6709, length: 42, content: 筆南史王儉傳手筆典裁為當時所重范曄傳手筆差易于文不拘韻故也韓文貶損道徳乃至手筆以問之, SBCK: 畢}
   - {type: punctuation, offset: 6710, content: (, id: KR4d0323_krp_006-bkkpn793}
+  - {type: voice, offset: 6710, length: 41, name: note, id: n141}
   - {type: punctuation, offset: 6726, content: /, id: KR4d0323_krp_006-bkkpn794}
   - {type: punctuation, offset: 6742, content: ), id: KR4d0323_krp_006-bkkpn795}
   - {type: 'kr:newline', offset: 6742, content: '
@@ -2253,6 +2394,7 @@ markers:
   - {type: page-break, offset: 6751, content: '', id: KR4d0323_SBCK_006-5a}
   - {type: punctuation, offset: 6755, content: (, id: KR4d0323_krp_006-bkkpn799}
   - {type: variant, offset: 6755, length: 105, content: 楊公筆録宋向桞與顔竣友善竣貴栁貧曰我與士遜心期久矣豈可以勢利處之任彦昇詩中道遇心期栁詩誰為後來者當與此心期陳後山詩得失妍蚩只自知略容千載有心期王荆公詩心期自與衆人殊山谷詩少日心期轉謬悠又心期曉月秋霜又心期誠不淺, SBCK: ''}
+  - {type: voice, offset: 6755, length: 105, name: note, id: n142}
   - {type: punctuation, offset: 6767, content: /, id: KR4d0323_krp_006-bkkpn800}
   - {type: punctuation, offset: 6779, content: ), id: KR4d0323_krp_006-bkkpn801}
   - {type: 'kr:newline', offset: 6779, content: '
@@ -2278,6 +2420,7 @@ markers:
   - {type: variant, offset: 6866, length: 1, content: 隱, SBCK: 隠}
   - {type: punctuation, offset: 6868, content: (, id: KR4d0323_krp_006-bkkpn808}
   - {type: variant, offset: 6868, length: 46, content: 仇覧傳今日太學曵長裾飛名譽者皆主簿後耳盧照隣詩伊人表時彦飛譽滿司存谹音横亦作􅀈揚雄傳隱隱􅀈􅀈, SBCK: ''}
+  - {type: voice, offset: 6868, length: 46, name: note, id: n143}
   - {type: substitution, offset: 6869, original: 覧, replacement: 覽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20749}}
   - {type: punctuation, offset: 6882, content: /, id: KR4d0323_krp_006-bkkpn809}
   - {type: substitution, offset: 6889, original: 隣, replacement: 鄰, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16534}}
@@ -2301,6 +2444,7 @@ markers:
   - {type: line-break, offset: 6926, content: '', id: KR4d0323_WYG_006-14a01}
   - {type: punctuation, offset: 6929, content: (, id: KR4d0323_krp_006-bkkpn814}
   - {type: variant, offset: 6929, length: 60, content: 陳後山贈二蘇公詩異人間出駭四方嚴主陳李司馬揚一翁二季對相望竒寳横道驥服箱誰其識者有歐陽大科異等固其常小却盛之白玉堂望平聲, SBCK: ''}
+  - {type: voice, offset: 6929, length: 60, name: note, id: n144}
   - {type: punctuation, offset: 6947, content: /, id: KR4d0323_krp_006-bkkpn815}
   - {type: substitution, offset: 6959, original: 寳, replacement: 寶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16794}}
   - {type: substitution, offset: 6960, original: 横, replacement: 橫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20786}}
@@ -2319,6 +2463,7 @@ markers:
   - {type: line-break, offset: 6998, content: '', id: KR4d0323_WYG_006-14a03}
   - {type: punctuation, offset: 7000, content: (, id: KR4d0323_krp_006-bkkpn820}
   - {type: variant, offset: 7000, length: 26, content: 詩書樂易禮春秋為六經書詩春秋為三史又史記兩漢書為三史, SBCK: ''}
+  - {type: voice, offset: 7000, length: 26, name: note, id: n145}
   - {type: punctuation, offset: 7013, content: /, id: KR4d0323_krp_006-bkkpn821}
   - {type: punctuation, offset: 7026, content: ), id: KR4d0323_krp_006-bkkpn822}
   - {type: 'kr:newline', offset: 7032, content: '
@@ -2328,10 +2473,12 @@ markers:
   - {type: variant, offset: 7032, length: 1, content: 世, SBCK: 丗}
   - {type: punctuation, offset: 7034, content: (, id: KR4d0323_krp_006-bkkpn823}
   - {type: variant, offset: 7034, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 7034, length: 2, name: note, id: n146}
   - {type: punctuation, offset: 7035, content: /, id: KR4d0323_krp_006-bkkpn824}
   - {type: punctuation, offset: 7036, content: ), id: KR4d0323_krp_006-bkkpn825}
   - {type: punctuation, offset: 7044, content: (, id: KR4d0323_krp_006-bkkpn826}
   - {type: variant, offset: 7044, length: 66, content: 新唐書楊𢎞禮傳𢎞禮字履莊素弟之子太宗征遼拜兵部侍郎領歩騎二十四軍跳出賊背所向披靡帝壯之謂徐敬宗曰越公兒郎故有家風還拜中書侍郎遷司農卿, SBCK: ''}
+  - {type: voice, offset: 7044, length: 66, name: note, id: n147}
   - {type: punctuation, offset: 7054, content: /, id: KR4d0323_krp_006-bkkpn827}
   - {type: punctuation, offset: 7064, content: ), id: KR4d0323_krp_006-bkkpn828}
   - {type: 'kr:newline', offset: 7064, content: '
@@ -2353,6 +2500,7 @@ markers:
   - {type: punctuation, offset: 7121, content: (, id: KR4d0323_krp_006-bkkpn835}
   - {type: variant, offset: 7121, length: 48, content: 温嶠傳錢世儀精神滿腹韓文若河汱下流而東注若駟馬駕輕車就熟路而王良造父為之先後也若燭照數計而龜卜也, SBCK: ''}
   - {type: substitution, offset: 7121, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
+  - {type: voice, offset: 7121, length: 48, name: note, id: n148}
   - {type: punctuation, offset: 7129, content: /, id: KR4d0323_krp_006-bkkpn836}
   - {type: punctuation, offset: 7137, content: ), id: KR4d0323_krp_006-bkkpn837}
   - {type: 'kr:newline', offset: 7137, content: '
@@ -2370,6 +2518,7 @@ markers:
   - {type: variant, offset: 7176, length: 1, content: 潔, SBCK: 㓗}
   - {type: punctuation, offset: 7180, content: (, id: KR4d0323_krp_006-bkkpn841}
   - {type: variant, offset: 7180, length: 74, content: 盧仝詩三椀搜枯膓惟有文字五千巻東坡詩撐膓拄腹文字五千巻李漢韓文序詭然而蛟龍翔蔚然而虎鳯躍鏗然而韶鈞鳴日灮玉潔周情孔思千態萬貌卒澤於道徳仁義炳如也若為, SBCK: 􅀂爲}
+  - {type: voice, offset: 7180, length: 72, name: note, id: n149}
   - {type: substitution, offset: 7181, original: 仝, replacement: 同, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16340}}
   - {type: substitution, offset: 7184, original: 椀, replacement: 碗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17575}}
   - {type: substitution, offset: 7187, original: 膓, replacement: 腸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16537}}
@@ -2397,6 +2546,7 @@ markers:
   - {type: line-break, offset: 7252, content: '', id: KR4d0323_WYG_006-14b02}
   - {type: punctuation, offset: 7259, content: (, id: KR4d0323_krp_006-bkkpn847}
   - {type: variant, offset: 7259, length: 36, content: 碧落天也李陟詩碧落高高雲萬里王維詩鳯扆朝碧落又碧落風烟外李白詩歩綱繞碧落, SBCK: ''}
+  - {type: voice, offset: 7259, length: 36, name: note, id: n150}
   - {type: punctuation, offset: 7273, content: /, id: KR4d0323_krp_006-bkkpn848}
   - {type: substitution, offset: 7285, original: 烟, replacement: 煙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17207}}
   - {type: punctuation, offset: 7287, content: ), id: KR4d0323_krp_006-bkkpn849}
@@ -2411,6 +2561,7 @@ markers:
   - {type: variant, offset: 7297, length: 1, content: 青, SBCK: 靑}
   - {type: variant, offset: 7301, length: 29, content: 笑韓愈與李正封聨句從軍古云樂談笑青油幕燈明夜觀棊月暗秋城柝, SBCK: 􅀏}
   - {type: punctuation, offset: 7302, content: (, id: KR4d0323_krp_006-bkkpn853}
+  - {type: voice, offset: 7302, length: 28, name: note, id: n151}
   - {type: punctuation, offset: 7312, content: /, id: KR4d0323_krp_006-bkkpn854}
   - {type: punctuation, offset: 7322, content: ), id: KR4d0323_krp_006-bkkpn855}
   - {type: 'kr:newline', offset: 7322, content: '
@@ -2423,6 +2574,7 @@ markers:
   - {type: substitution, offset: 7339, original: 冲, replacement: 沖, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16379}}
   - {type: punctuation, offset: 7341, content: (, id: KR4d0323_krp_006-bkkpn859}
   - {type: variant, offset: 7341, length: 52, content: 六一居士集未乾薦禰之墨已彎射羿之弓山谷詩更磨薦禰墨推挽起疲懦淳于髠傳此鳥不飛則已一飛冲天不鳴則已一飛驚人, SBCK: ''}
+  - {type: voice, offset: 7341, length: 52, name: note, id: n152}
   - {type: punctuation, offset: 7347, content: /, id: KR4d0323_krp_006-bkkpn860}
   - {type: punctuation, offset: 7353, content: ), id: KR4d0323_krp_006-bkkpn861}
   - {type: 'kr:newline', offset: 7353, content: '
@@ -2441,6 +2593,7 @@ markers:
   - {type: variant, offset: 7400, length: 1, content: 遲, SBCK: 遟}
   - {type: punctuation, offset: 7404, content: (, id: KR4d0323_krp_006-bkkpn865}
   - {type: variant, offset: 7404, length: 59, content: 韓詩檄筆無與讓幕謀職其膺左傳三進及溜而後視之正義云溜謂簷下水溜之處入門伏而不省起而更進三進而及于君之屋漏言廹于公之前也, SBCK: ''}
+  - {type: voice, offset: 7404, length: 59, name: note, id: n153}
   - {type: punctuation, offset: 7415, content: /, id: KR4d0323_krp_006-bkkpn866}
   - {type: punctuation, offset: 7426, content: ), id: KR4d0323_krp_006-bkkpn867}
   - {type: 'kr:newline', offset: 7426, content: '
@@ -2457,10 +2610,12 @@ markers:
   - {type: line-break, offset: 7465, content: '', id: KR4d0323_WYG_006-14b08}
   - {type: punctuation, offset: 7467, content: (, id: KR4d0323_krp_006-bkkpn871}
   - {type: variant, offset: 7467, length: 8, content: 張良傳運籌帷幄中, SBCK: ''}
+  - {type: voice, offset: 7467, length: 8, name: note, id: n154}
   - {type: punctuation, offset: 7471, content: /, id: KR4d0323_krp_006-bkkpn872}
   - {type: punctuation, offset: 7475, content: ), id: KR4d0323_krp_006-bkkpn873}
   - {type: variant, offset: 7476, length: 36, content: 借前籌張良傳臣請借前箸以籌之張晏曰求借所食之箸用指畫也韓詩兹道誠可尚誰能, SBCK: ''}
   - {type: punctuation, offset: 7479, content: (, id: KR4d0323_krp_006-bkkpn874}
+  - {type: voice, offset: 7479, length: 36, name: note, id: n155}
   - {type: punctuation, offset: 7490, content: /, id: KR4d0323_krp_006-bkkpn875}
   - {type: punctuation, offset: 7501, content: ), id: KR4d0323_krp_006-bkkpn876}
   - {type: 'kr:newline', offset: 7501, content: '
@@ -2476,6 +2631,7 @@ markers:
   - {type: punctuation, offset: 7515, content: ), id: KR4d0323_krp_006-bkkpn879}
   - {type: punctuation, offset: 7523, content: (, id: KR4d0323_krp_006-bkkpn880}
   - {type: variant, offset: 7523, length: 19, content: 出師表斟酌損益進盡忠言則攸之禕允之任也, SBCK: ''}
+  - {type: voice, offset: 7523, length: 19, name: note, id: n156}
   - {type: punctuation, offset: 7529, content: /, id: KR4d0323_krp_006-bkkpn881}
   - {type: punctuation, offset: 7535, content: ), id: KR4d0323_krp_006-bkkpn882}
   - {type: 'kr:newline', offset: 7535, content: '
@@ -2487,6 +2643,7 @@ markers:
   - {type: punctuation, offset: 7542, content: ), id: KR4d0323_krp_006-bkkpn885}
   - {type: punctuation, offset: 7550, content: (, id: KR4d0323_krp_006-bkkpn886}
   - {type: variant, offset: 7550, length: 37, content: 韓文方今㓂聚于垣師環其疆農不耕收財粟殫亡吾所處地歸輸之塗治法征謀宜有所出竊, SBCK: 􅀼}
+  - {type: voice, offset: 7550, length: 36, name: note, id: n157}
   - {type: substitution, offset: 7554, original: 㓂, replacement: 寇, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19917}}
   - {type: punctuation, offset: 7559, content: /, id: KR4d0323_krp_006-bkkpn887}
   - {type: punctuation, offset: 7568, content: ), id: KR4d0323_krp_006-bkkpn888}
@@ -2505,6 +2662,7 @@ markers:
   - {type: variant, offset: 7599, length: 1, content: 寧, SBCK: 寕}
   - {type: punctuation, offset: 7606, content: (, id: KR4d0323_krp_006-bkkpn892}
   - {type: variant, offset: 7606, length: 61, content: 汲黯傳君薄淮陽耶吾今召君矣景帝紀詔曰吏者民之師也車駕衣服宜稱令長吏二千石車兩朱幡注幡車之蔽也後漢書輿服志二千石皆皂葢朱兩幡, SBCK: ''}
+  - {type: voice, offset: 7606, length: 61, name: note, id: n158}
   - {type: punctuation, offset: 7619, content: /, id: KR4d0323_krp_006-bkkpn893}
   - {type: punctuation, offset: 7632, content: ), id: KR4d0323_krp_006-bkkpn894}
   - {type: 'kr:newline', offset: 7632, content: '
@@ -2522,6 +2680,7 @@ markers:
   - {type: variant, offset: 7672, length: 1, content: 會, SBCK: 㑹}
   - {type: punctuation, offset: 7679, content: (, id: KR4d0323_krp_006-bkkpn898}
   - {type: variant, offset: 7679, length: 77, content: 王章傳初章為諸生學長安獨與妻居章疾病無被卧牛衣中與妻决涕泣妻呵怒之曰仲卿京師尊貴在朝廷人誰踰仲卿者今疾病困戹不自激卬乃反涕泣何鄙也王僧孺表神夢紫霄心飛丹掖, SBCK: ''}
+  - {type: voice, offset: 7679, length: 77, name: note, id: n159}
   - {type: punctuation, offset: 7691, content: /, id: KR4d0323_krp_006-bkkpn899}
   - {type: punctuation, offset: 7703, content: ), id: KR4d0323_krp_006-bkkpn900}
   - {type: 'kr:newline', offset: 7703, content: '
@@ -2542,6 +2701,7 @@ markers:
   - {type: punctuation, offset: 7756, content: ), id: KR4d0323_krp_006-bkkpn906}
   - {type: punctuation, offset: 7765, content: (, id: KR4d0323_krp_006-bkkpn907}
   - {type: variant, offset: 7765, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 7765, length: 2, name: note, id: n160}
   - {type: punctuation, offset: 7766, content: /, id: KR4d0323_krp_006-bkkpn908}
   - {type: punctuation, offset: 7767, content: ), id: KR4d0323_krp_006-bkkpn909}
   - {type: variant, offset: 7768, length: 1, content: 青, SBCK: 靑}
@@ -2556,6 +2716,7 @@ markers:
   - {type: variant, offset: 7774, length: 1, content: 逄, SBCK: 逢}
   - {type: punctuation, offset: 7780, content: (, id: KR4d0323_krp_006-bkkpn910}
   - {type: variant, offset: 7780, length: 27, content: 李詩蜀道難難於上青天又捫參歴井仰脅息杜詩詞源倒流三峽水, SBCK: ''}
+  - {type: voice, offset: 7780, length: 27, name: note, id: n161}
   - {type: punctuation, offset: 7793, content: /, id: KR4d0323_krp_006-bkkpn911}
   - {type: substitution, offset: 7793, original: 歴, replacement: 歷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20788}}
   - {type: punctuation, offset: 7806, content: ), id: KR4d0323_krp_006-bkkpn912}
@@ -2569,6 +2730,7 @@ markers:
   - {type: page-break, offset: 7807, content: '', id: KR4d0323_SBCK_006-5b}
   - {type: variant, offset: 7818, length: 37, content: 郤走韓詩孟生江海士古貌又古心豈識天子居九重鬰沈沈一門百夫守無籍不可尋遷延乍, SBCK: ''}
   - {type: punctuation, offset: 7820, content: (, id: KR4d0323_krp_006-bkkpn916}
+  - {type: voice, offset: 7820, length: 52, name: note, id: n162}
   - {type: punctuation, offset: 7827, content: /, id: KR4d0323_krp_006-bkkpn917}
   - {type: punctuation, offset: 7834, content: ), id: KR4d0323_krp_006-bkkpn918}
   - {type: 'kr:newline', offset: 7834, content: '
@@ -2587,6 +2749,7 @@ markers:
   - {type: line-break, offset: 7874, content: '', id: KR4d0323_WYG_006-15b04}
   - {type: punctuation, offset: 7880, content: (, id: KR4d0323_krp_006-bkkpn922}
   - {type: variant, offset: 7880, length: 31, content: 文翁傳景帝末為蜀郡守仁愛好教化杜詩得歸茅屋赴成都眞為文翁再剖符, SBCK: ''}
+  - {type: voice, offset: 7880, length: 31, name: note, id: n163}
   - {type: punctuation, offset: 7895, content: /, id: KR4d0323_krp_006-bkkpn923}
   - {type: substitution, offset: 7904, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 7910, content: ), id: KR4d0323_krp_006-bkkpn924}
@@ -2600,6 +2763,7 @@ markers:
   - {type: variant, offset: 7914, length: 1, content: 棄, SBCK: 弃}
   - {type: punctuation, offset: 7919, content: (, id: KR4d0323_krp_006-bkkpn928}
   - {type: variant, offset: 7919, length: 37, content: 左傳宋城華元為植廵功城者謳曰睅其目皤其腹棄甲而復于思于思棄甲復來于思多鬚貌, SBCK: ''}
+  - {type: voice, offset: 7919, length: 37, name: note, id: n164}
   - {type: substitution, offset: 7927, original: 廵, replacement: 巡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16441}}
   - {type: punctuation, offset: 7931, content: /, id: KR4d0323_krp_006-bkkpn929}
   - {type: punctuation, offset: 7943, content: ), id: KR4d0323_krp_006-bkkpn930}
@@ -2618,6 +2782,7 @@ markers:
   - {type: line-break, offset: 7970, content: '', id: KR4d0323_WYG_006-15b07}
   - {type: punctuation, offset: 7970, content: (, id: KR4d0323_krp_006-bkkpn934}
   - {type: variant, offset: 7970, length: 13, content: 周禮大事則從其長小事則專逹, SBCK: ''}
+  - {type: voice, offset: 7970, length: 13, name: note, id: n165}
   - {type: punctuation, offset: 7977, content: /, id: KR4d0323_krp_006-bkkpn935}
   - {type: punctuation, offset: 7983, content: ), id: KR4d0323_krp_006-bkkpn936}
   - {type: 'kr:newline', offset: 7997, content: '
@@ -2626,6 +2791,7 @@ markers:
   - {type: line-break, offset: 7997, content: '', id: KR4d0323_WYG_006-15b08}
   - {type: punctuation, offset: 7998, content: (, id: KR4d0323_krp_006-bkkpn937}
   - {type: variant, offset: 7998, length: 39, content: 詩有枤之杜其葉菁菁獨行睘睘豈無他人不如我同姓嗟行之人胡不比焉人無兄弟胡不佽焉既, SBCK: 旣}
+  - {type: voice, offset: 7998, length: 38, name: note, id: n166}
   - {type: punctuation, offset: 8017, content: /, id: KR4d0323_krp_006-bkkpn938}
   - {type: punctuation, offset: 8036, content: ), id: KR4d0323_krp_006-bkkpn939}
   - {type: 'kr:newline', offset: 8037, content: '
@@ -2639,6 +2805,7 @@ markers:
   - {type: variant, offset: 8044, length: 1, content: 早, SBCK: 蚤}
   - {type: punctuation, offset: 8051, content: (, id: KR4d0323_krp_006-bkkpn940}
   - {type: variant, offset: 8051, length: 29, content: 詩未見君子憂心怲怲既見君子庶幾有臧韓文敢不敬蚤夜以求從祝規, SBCK: ''}
+  - {type: voice, offset: 8051, length: 29, name: note, id: n167}
   - {type: punctuation, offset: 8058, content: /, id: KR4d0323_krp_006-bkkpn941}
   - {type: punctuation, offset: 8065, content: ), id: KR4d0323_krp_006-bkkpn942}
   - {type: 'kr:newline', offset: 8065, content: '
@@ -2655,6 +2822,7 @@ markers:
   - {type: indent, offset: 8080, content: 　　, id: KR4d0323_krp_006-bkkind22}
   - {type: substitution, offset: 8081, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: punctuation, offset: 8084, content: (, id: KR4d0323_krp_006-bkkpn946}
+  - {type: voice, offset: 8084, length: 1, name: note, id: n168}
   - {type: punctuation, offset: 8085, content: /, id: KR4d0323_krp_006-bkkpn947}
   - {type: punctuation, offset: 8085, content: ), id: KR4d0323_krp_006-bkkpn948}
   - {type: 'kr:newline', offset: 8085, content: '
@@ -2664,6 +2832,7 @@ markers:
   - {type: variant, offset: 8091, length: 1, content: 賓, SBCK: 賔}
   - {type: variant, offset: 8094, length: 13, content: 聯顔延年詩結綬登王畿餘見前, SBCK: 聮}
   - {type: punctuation, offset: 8095, content: (, id: KR4d0323_krp_006-bkkpn949}
+  - {type: voice, offset: 8095, length: 12, name: note, id: n169}
   - {type: punctuation, offset: 8101, content: /, id: KR4d0323_krp_006-bkkpn950}
   - {type: punctuation, offset: 8107, content: ), id: KR4d0323_krp_006-bkkpn951}
   - {type: 'kr:newline', offset: 8112, content: '
@@ -2672,6 +2841,7 @@ markers:
   - {type: line-break, offset: 8112, content: '', id: KR4d0323_WYG_006-16a05}
   - {type: punctuation, offset: 8117, content: (, id: KR4d0323_krp_006-bkkpn952}
   - {type: variant, offset: 8117, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 8117, length: 2, name: note, id: n170}
   - {type: punctuation, offset: 8118, content: /, id: KR4d0323_krp_006-bkkpn953}
   - {type: punctuation, offset: 8119, content: ), id: KR4d0323_krp_006-bkkpn954}
   - {type: variant, offset: 8123, length: 1, content: 為, SBCK: 爲}
@@ -2683,6 +2853,7 @@ markers:
   - {type: line-break, offset: 8134, content: '', id: KR4d0323_WYG_006-16a06}
   - {type: punctuation, offset: 8153, content: (, id: KR4d0323_krp_006-bkkpn955}
   - {type: variant, offset: 8153, length: 48, content: 司馬相如傳相如既奏大人賦天子大悦飄飄有淩雲氣游天地之間意法言如孔氏之門用賦也則賈誼升堂相如入室矣, SBCK: ''}
+  - {type: voice, offset: 8153, length: 48, name: note, id: n171}
   - {type: punctuation, offset: 8155, content: /, id: KR4d0323_krp_006-bkkpn956}
   - {type: punctuation, offset: 8157, content: ), id: KR4d0323_krp_006-bkkpn957}
   - {type: 'kr:newline', offset: 8157, content: '
@@ -2703,6 +2874,7 @@ markers:
   - {type: punctuation, offset: 8201, content: ), id: KR4d0323_krp_006-bkkpn963}
   - {type: punctuation, offset: 8211, content: (, id: KR4d0323_krp_006-bkkpn964}
   - {type: variant, offset: 8211, length: 50, content: 孫綽傳甞作天台山賦辭致甚工初成以示友人范榮期云卿試擲地當作金石聲也李賀詩殿前作賦聲摩空筆補造化天無功, SBCK: ''}
+  - {type: voice, offset: 8211, length: 50, name: note, id: n172}
   - {type: substitution, offset: 8214, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16905}}
   - {type: punctuation, offset: 8221, content: /, id: KR4d0323_krp_006-bkkpn965}
   - {type: punctuation, offset: 8231, content: ), id: KR4d0323_krp_006-bkkpn966}
@@ -2723,6 +2895,7 @@ markers:
   - {type: line-break, offset: 8267, content: '', id: KR4d0323_WYG_006-16b02}
   - {type: punctuation, offset: 8267, content: (, id: KR4d0323_krp_006-bkkpn970}
   - {type: variant, offset: 8267, length: 88, content: 韶石山在韶州曲江縣北四十里相傳舜奏樂於此竒石三十六韶之山多竒而韶石為最䨇闕又韶石之竒絶者王荆公詩沄沄曲江水天借九秋色樓臺飛半空秀氣盤韶石東坡詩首參虞舜歎韶石次謁六祖登南華詳别見, SBCK: ''}
+  - {type: voice, offset: 8267, length: 88, name: note, id: n173}
   - {type: punctuation, offset: 8288, content: /, id: KR4d0323_krp_006-bkkpn971}
   - {type: substitution, offset: 8302, original: 䨇, replacement: 雙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19990}}
   - {type: punctuation, offset: 8309, content: ), id: KR4d0323_krp_006-bkkpn972}
@@ -2742,10 +2915,12 @@ markers:
   - {type: punctuation, offset: 8355, content: ), id: KR4d0323_krp_006-bkkpn978}
   - {type: punctuation, offset: 8361, content: (, id: KR4d0323_krp_006-bkkpn979}
   - {type: variant, offset: 8361, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 8361, length: 2, name: note, id: n174}
   - {type: punctuation, offset: 8362, content: /, id: KR4d0323_krp_006-bkkpn980}
   - {type: punctuation, offset: 8363, content: ), id: KR4d0323_krp_006-bkkpn981}
   - {type: punctuation, offset: 8369, content: (, id: KR4d0323_krp_006-bkkpn982}
   - {type: variant, offset: 8369, length: 22, content: 韓詩上界眞人足官府豈如散仙鞭笞鸞鳯終日相追陪, SBCK: ''}
+  - {type: voice, offset: 8369, length: 22, name: note, id: n175}
   - {type: substitution, offset: 8373, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 8375, content: /, id: KR4d0323_krp_006-bkkpn983}
   - {type: punctuation, offset: 8381, content: ), id: KR4d0323_krp_006-bkkpn984}
@@ -2759,6 +2934,7 @@ markers:
   - {type: variant, offset: 8392, length: 1, content: 贊, SBCK: 賛}
   - {type: punctuation, offset: 8397, content: (, id: KR4d0323_krp_006-bkkpn988}
   - {type: variant, offset: 8397, length: 37, content: 杜氏通典漢興高皇帝時漕轉山東之粟以給中都官歲不過数十萬石中都官謂京師之官府, SBCK: ''}
+  - {type: voice, offset: 8397, length: 37, name: note, id: n176}
   - {type: punctuation, offset: 8407, content: /, id: KR4d0323_krp_006-bkkpn989}
   - {type: punctuation, offset: 8417, content: ), id: KR4d0323_krp_006-bkkpn990}
   - {type: 'kr:newline', offset: 8417, content: '
@@ -2773,6 +2949,7 @@ markers:
   - {type: variant, offset: 8442, length: 1, content: 修, SBCK: 脩}
   - {type: punctuation, offset: 8444, content: (, id: KR4d0323_krp_006-bkkpn994}
   - {type: variant, offset: 8444, length: 36, content: 韓文若駟馬駕輕車就熟路而王良造父為之先後也離騷老冉冉其將至兮恐修名之不立, SBCK: ''}
+  - {type: voice, offset: 8444, length: 36, name: note, id: n177}
   - {type: punctuation, offset: 8446, content: /, id: KR4d0323_krp_006-bkkpn995}
   - {type: punctuation, offset: 8448, content: ), id: KR4d0323_krp_006-bkkpn996}
   - {type: 'kr:newline', offset: 8448, content: '
@@ -2788,6 +2965,7 @@ markers:
   - {type: line-break, offset: 8485, content: '', id: KR4d0323_WYG_006-16b08}
   - {type: punctuation, offset: 8499, content: (, id: KR4d0323_krp_006-bkkpn1000}
   - {type: variant, offset: 8499, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 8499, length: 3, name: note, id: n178}
   - {type: punctuation, offset: 8501, content: /, id: KR4d0323_krp_006-bkkpn1001}
   - {type: punctuation, offset: 8502, content: ), id: KR4d0323_krp_006-bkkpn1002}
   - {type: variant, offset: 8503, length: 1, content: 圖, SBCK: 圗}
@@ -2804,6 +2982,7 @@ markers:
   - {type: substitution, offset: 8517, original: 愽, replacement: 博, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17418}}
   - {type: punctuation, offset: 8525, content: (, id: KR4d0323_krp_006-bkkpn1003}
   - {type: variant, offset: 8525, length: 94, content: 韓文送楊支使序愈聞當今藩翰之賓客惟宣州為多賢與之游者二人隴西李愽清河崔羣羣與愽之為人吾知之道不行于主人與之處者非其類雖有享之以季氏之富不一日留也愈未甞至宣州而樂頌其主人之賢者以其取人信之也, SBCK: ''}
+  - {type: voice, offset: 8525, length: 94, name: note, id: n179}
   - {type: punctuation, offset: 8528, content: /, id: KR4d0323_krp_006-bkkpn1004}
   - {type: punctuation, offset: 8531, content: ), id: KR4d0323_krp_006-bkkpn1005}
   - {type: 'kr:newline', offset: 8531, content: '
@@ -2835,6 +3014,7 @@ markers:
   - {type: substitution, offset: 8623, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16905}}
   - {type: punctuation, offset: 8630, content: (, id: KR4d0323_krp_006-bkkpn1015}
   - {type: variant, offset: 8630, length: 47, content: 賈誼傳河南守呉公聞誼秀材召置門下文帝聞呉公治平為天下第一故與李斯同邑而甞學事焉詩自今以始歲其有, SBCK: ''}
+  - {type: voice, offset: 8630, length: 47, name: note, id: n180}
   - {type: substitution, offset: 8636, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19438}}
   - {type: punctuation, offset: 8638, content: /, id: KR4d0323_krp_006-bkkpn1016}
   - {type: punctuation, offset: 8646, content: ), id: KR4d0323_krp_006-bkkpn1017}
@@ -2853,6 +3033,7 @@ markers:
   - {type: line-break, offset: 8677, content: '', id: KR4d0323_WYG_006-17a06}
   - {type: indent, offset: 8677, content: 　　, id: KR4d0323_krp_006-bkkind23}
   - {type: punctuation, offset: 8683, content: (, id: KR4d0323_krp_006-bkkpn1021}
+  - {type: voice, offset: 8683, length: 2, name: note, id: n181}
   - {type: punctuation, offset: 8685, content: /, id: KR4d0323_krp_006-bkkpn1022}
   - {type: punctuation, offset: 8685, content: ), id: KR4d0323_krp_006-bkkpn1023}
   - {type: 'kr:newline', offset: 8685, content: '
@@ -2865,6 +3046,7 @@ markers:
   - {type: substitution, offset: 8691, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: punctuation, offset: 8695, content: (, id: KR4d0323_krp_006-bkkpn1024}
   - {type: variant, offset: 8695, length: 22, content: 薛宣傳壹关為樂師古曰壹关謂一為歡笑耳关古笑字, SBCK: ''}
+  - {type: voice, offset: 8695, length: 22, name: note, id: n182}
   - {type: substitution, offset: 8698, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20157}}
   - {type: substitution, offset: 8699, original: 关, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16391}}
   - {type: substitution, offset: 8705, original: 壹, replacement: 一, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20157}}
@@ -2878,6 +3060,7 @@ markers:
   - {type: line-break, offset: 8717, content: '', id: KR4d0323_WYG_006-17a08}
   - {type: punctuation, offset: 8727, content: (, id: KR4d0323_krp_006-bkkpn1027}
   - {type: variant, offset: 8727, length: 14, content: 韋蘇州詩文史臺中妙氷壺幕下清, SBCK: ''}
+  - {type: voice, offset: 8727, length: 14, name: note, id: n183}
   - {type: punctuation, offset: 8734, content: /, id: KR4d0323_krp_006-bkkpn1028}
   - {type: punctuation, offset: 8741, content: ), id: KR4d0323_krp_006-bkkpn1029}
   - {type: 'kr:newline', offset: 8745, content: '
@@ -2890,6 +3073,7 @@ markers:
   - {type: line-break, offset: 8745, content: '', id: KR4d0323_WYG_006-17b01}
   - {type: punctuation, offset: 8747, content: (, id: KR4d0323_krp_006-bkkpn1030}
   - {type: variant, offset: 8747, length: 27, content: 張耳傳箯輿前師古曰箯輿者編竹木以為輿北堂書鈔云亦云筍輿, SBCK: ''}
+  - {type: voice, offset: 8747, length: 27, name: note, id: n184}
   - {type: punctuation, offset: 8761, content: /, id: KR4d0323_krp_006-bkkpn1031}
   - {type: punctuation, offset: 8774, content: ), id: KR4d0323_krp_006-bkkpn1032}
   - {type: variant, offset: 8777, length: 1, content: 以, SBCK: 而}
@@ -2899,6 +3083,7 @@ markers:
   - {type: line-break, offset: 8779, content: '', id: KR4d0323_WYG_006-17b02}
   - {type: punctuation, offset: 8780, content: (, id: KR4d0323_krp_006-bkkpn1033}
   - {type: variant, offset: 8780, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 8780, length: 2, name: note, id: n185}
   - {type: punctuation, offset: 8781, content: /, id: KR4d0323_krp_006-bkkpn1034}
   - {type: punctuation, offset: 8782, content: ), id: KR4d0323_krp_006-bkkpn1035}
   - {type: variant, offset: 8787, length: 1, content: 出, SBCK: 岀}
@@ -2908,6 +3093,7 @@ markers:
   - {type: line-break, offset: 8801, content: '', id: KR4d0323_WYG_006-17b03}
   - {type: punctuation, offset: 8804, content: (, id: KR4d0323_krp_006-bkkpn1036}
   - {type: variant, offset: 8804, length: 23, content: 李賀詩殿前作賦聲摩空東坡三馬贊振鬛長鳴萬馬皆瘖, SBCK: ''}
+  - {type: voice, offset: 8804, length: 23, name: note, id: n186}
   - {type: punctuation, offset: 8816, content: /, id: KR4d0323_krp_006-bkkpn1037}
   - {type: punctuation, offset: 8827, content: ), id: KR4d0323_krp_006-bkkpn1038}
   - {type: substitution, offset: 8829, original: 决, replacement: 決, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16386}}
@@ -2917,6 +3103,7 @@ markers:
   - {type: line-break, offset: 8833, content: '', id: KR4d0323_WYG_006-17b04}
   - {type: punctuation, offset: 8837, content: (, id: KR4d0323_krp_006-bkkpn1039}
   - {type: variant, offset: 8837, length: 28, content: 法言須以發䇿决科列子使巨鼇十五舉首而戴之又一釣而連六鼇采, SBCK: 釆}
+  - {type: voice, offset: 8837, length: 27, name: note, id: n187}
   - {type: substitution, offset: 8843, original: 决, replacement: 決, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16386}}
   - {type: punctuation, offset: 8851, content: /, id: KR4d0323_krp_006-bkkpn1040}
   - {type: punctuation, offset: 8864, content: ), id: KR4d0323_krp_006-bkkpn1041}
@@ -2927,6 +3114,7 @@ markers:
   - {type: variant, offset: 8868, length: 1, content: 泮, SBCK: 冸}
   - {type: punctuation, offset: 8870, content: (, id: KR4d0323_krp_006-bkkpn1042}
   - {type: variant, offset: 8870, length: 42, content: 詩思樂泮水薄采其芹魯矦戾止言觀其旂注泮水泮宫之水也芹水菜也言水則采取其芹宫則采取其化, SBCK: ''}
+  - {type: voice, offset: 8870, length: 42, name: note, id: n188}
   - {type: substitution, offset: 8886, original: 旂, replacement: 旗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17702}}
   - {type: punctuation, offset: 8888, content: /, id: KR4d0323_krp_006-bkkpn1043}
   - {type: punctuation, offset: 8906, content: ), id: KR4d0323_krp_006-bkkpn1044}
@@ -2940,6 +3128,7 @@ markers:
   - {type: variant, offset: 8916, length: 1, content: 清, SBCK: 淸}
   - {type: punctuation, offset: 8918, content: (, id: KR4d0323_krp_006-bkkpn1048}
   - {type: variant, offset: 8918, length: 16, content: 栁詩漁翁夜傍西巖宿曉汲清湘燃楚竹, SBCK: ''}
+  - {type: voice, offset: 8918, length: 16, name: note, id: n189}
   - {type: punctuation, offset: 8926, content: /, id: KR4d0323_krp_006-bkkpn1049}
   - {type: punctuation, offset: 8934, content: ), id: KR4d0323_krp_006-bkkpn1050}
   - {type: variant, offset: 8936, length: 1, content: 為, SBCK: 爲}
@@ -2949,11 +3138,13 @@ markers:
   - {type: line-break, offset: 8938, content: '', id: KR4d0323_WYG_006-17b07}
   - {type: punctuation, offset: 8950, content: (, id: KR4d0323_krp_006-bkkpn1051}
   - {type: variant, offset: 8950, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 8950, length: 2, name: note, id: n190}
   - {type: punctuation, offset: 8951, content: /, id: KR4d0323_krp_006-bkkpn1052}
   - {type: punctuation, offset: 8952, content: ), id: KR4d0323_krp_006-bkkpn1053}
   - {type: variant, offset: 8954, length: 1, content: 清, SBCK: 淸}
   - {type: punctuation, offset: 8958, content: (, id: KR4d0323_krp_006-bkkpn1054}
   - {type: variant, offset: 8958, length: 34, content: 新唐書李珏傳珏為殿中侍御史宰相韋處厚曰清廟之器豈擊搏才乎除禮部員外郎, SBCK: ''}
+  - {type: voice, offset: 8958, length: 34, name: note, id: n191}
   - {type: punctuation, offset: 8960, content: /, id: KR4d0323_krp_006-bkkpn1055}
   - {type: punctuation, offset: 8962, content: ), id: KR4d0323_krp_006-bkkpn1056}
   - {type: 'kr:newline', offset: 8962, content: '
@@ -2982,10 +3173,12 @@ markers:
   - {type: line-break, offset: 9019, content: '', id: KR4d0323_WYG_006-18a02}
   - {type: punctuation, offset: 9020, content: (, id: KR4d0323_krp_006-bkkpn1060}
   - {type: variant, offset: 9020, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 9020, length: 3, name: note, id: n192}
   - {type: punctuation, offset: 9022, content: /, id: KR4d0323_krp_006-bkkpn1061}
   - {type: punctuation, offset: 9023, content: ), id: KR4d0323_krp_006-bkkpn1062}
   - {type: punctuation, offset: 9028, content: (, id: KR4d0323_krp_006-bkkpn1063}
   - {type: variant, offset: 9028, length: 68, content: 北夢瑣言偽蜀韓昭仕至禮部尚書文思殿大學士粗有文章至於琴棋書算射法悉皆渉獵以此承恩於後主時有朝士李台嘏曰韓八座事藝如拆襪線無一條長時人韙之, SBCK: ''}
+  - {type: voice, offset: 9028, length: 68, name: note, id: n193}
   - {type: punctuation, offset: 9041, content: /, id: KR4d0323_krp_006-bkkpn1064}
   - {type: punctuation, offset: 9054, content: ), id: KR4d0323_krp_006-bkkpn1065}
   - {type: 'kr:newline', offset: 9054, content: '
@@ -3002,11 +3195,13 @@ markers:
   - {type: line-break, offset: 9096, content: '', id: KR4d0323_WYG_006-18a04}
   - {type: variant, offset: 9099, length: 9, content: 屬北山移文濫巾北嶽, SBCK: 属}
   - {type: punctuation, offset: 9100, content: (, id: KR4d0323_krp_006-bkkpn1069}
+  - {type: voice, offset: 9100, length: 8, name: note, id: n194}
   - {type: punctuation, offset: 9104, content: /, id: KR4d0323_krp_006-bkkpn1070}
   - {type: punctuation, offset: 9108, content: ), id: KR4d0323_krp_006-bkkpn1071}
   - {type: variant, offset: 9115, length: 1, content: 俎, SBCK: 爼}
   - {type: punctuation, offset: 9118, content: (, id: KR4d0323_krp_006-bkkpn1072}
   - {type: variant, offset: 9118, length: 13, content: 左傳攝官承乏杜詩雅薦非承乏, SBCK: ''}
+  - {type: voice, offset: 9118, length: 13, name: note, id: n195}
   - {type: punctuation, offset: 9121, content: /, id: KR4d0323_krp_006-bkkpn1073}
   - {type: punctuation, offset: 9124, content: ), id: KR4d0323_krp_006-bkkpn1074}
   - {type: 'kr:newline', offset: 9124, content: '
@@ -3026,10 +3221,12 @@ markers:
   - {type: line-break, offset: 9148, content: '', id: KR4d0323_WYG_006-18a06}
   - {type: punctuation, offset: 9148, content: (, id: KR4d0323_krp_006-bkkpn1078}
   - {type: variant, offset: 9148, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 9148, length: 3, name: note, id: n196}
   - {type: punctuation, offset: 9150, content: /, id: KR4d0323_krp_006-bkkpn1079}
   - {type: punctuation, offset: 9151, content: ), id: KR4d0323_krp_006-bkkpn1080}
   - {type: variant, offset: 9156, length: 9, content: 欲狂杜詩謾巻詩書喜, SBCK: ''}
   - {type: punctuation, offset: 9158, content: (, id: KR4d0323_krp_006-bkkpn1081}
+  - {type: voice, offset: 9158, length: 9, name: note, id: n197}
   - {type: substitution, offset: 9161, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 9163, content: /, id: KR4d0323_krp_006-bkkpn1082}
   - {type: punctuation, offset: 9167, content: ), id: KR4d0323_krp_006-bkkpn1083}
@@ -3043,6 +3240,7 @@ markers:
   - {type: variant, offset: 9186, length: 1, content: 慰, SBCK: 安}
   - {type: punctuation, offset: 9191, content: (, id: KR4d0323_krp_006-bkkpn1084}
   - {type: variant, offset: 9191, length: 44, content: 左傳季武子曰今譬草木寡人在君君之臭味也又譬諸草木吾臭味也臭味言同類也文選臭味風雲千載無爽, SBCK: ''}
+  - {type: voice, offset: 9191, length: 44, name: note, id: n198}
   - {type: punctuation, offset: 9195, content: /, id: KR4d0323_krp_006-bkkpn1085}
   - {type: punctuation, offset: 9199, content: ), id: KR4d0323_krp_006-bkkpn1086}
   - {type: 'kr:newline', offset: 9199, content: '
@@ -3062,6 +3260,7 @@ markers:
   - {type: line-break, offset: 9235, content: '', id: KR4d0323_WYG_006-18b01}
   - {type: indent, offset: 9235, content: 　　, id: KR4d0323_krp_006-bkkind24}
   - {type: punctuation, offset: 9241, content: (, id: KR4d0323_krp_006-bkkpn1090}
+  - {type: voice, offset: 9241, length: 46, name: note, id: n199}
   - {type: 'kr:non-cjk', offset: 9243, content: ○, id: KR4d0323_krp_006-bkkkrnonc3}
   - {type: variant, offset: 9243, length: 45, content: 潭州古三苖國秦漢長沙郡晉置湘州隋置潭州宋屬荆湖南路武安軍節度湖南安撫轉運司治所在焉詳别見祭, SBCK: 􅀕}
   - {type: punctuation, offset: 9253, content: /, id: KR4d0323_krp_006-bkkpn1091}
@@ -3082,11 +3281,13 @@ markers:
   - {type: variant, offset: 9292, length: 1, content: 既, SBCK: 旣}
   - {type: variant, offset: 9295, length: 4, content: 才見前倚, SBCK: 財􅀝}
   - {type: punctuation, offset: 9296, content: (, id: KR4d0323_krp_006-bkkpn1096}
+  - {type: voice, offset: 9296, length: 2, name: note, id: n200}
   - {type: punctuation, offset: 9297, content: /, id: KR4d0323_krp_006-bkkpn1097}
   - {type: punctuation, offset: 9298, content: ), id: KR4d0323_krp_006-bkkpn1098}
   - {type: variant, offset: 9302, length: 1, content: 牆, SBCK: 墻}
   - {type: punctuation, offset: 9307, content: (, id: KR4d0323_krp_006-bkkpn1099}
   - {type: variant, offset: 9307, length: 21, content: 法言倚孔子之牆絃鄭衛之聲誦韓莊之書餘見前懐, SBCK: 懷}
+  - {type: voice, offset: 9307, length: 20, name: note, id: n201}
   - {type: punctuation, offset: 9309, content: /, id: KR4d0323_krp_006-bkkpn1100}
   - {type: punctuation, offset: 9311, content: ), id: KR4d0323_krp_006-bkkpn1101}
   - {type: 'kr:newline', offset: 9311, content: '
@@ -3101,6 +3302,7 @@ markers:
   - {type: substitution, offset: 9329, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: punctuation, offset: 9331, content: (, id: KR4d0323_krp_006-bkkpn1105}
   - {type: variant, offset: 9331, length: 39, content: 詩懐哉懐哉曷月子還歸哉注懐安也思鄉里處者故曰今亦安不哉安不哉何月我得還歸見之哉, SBCK: ''}
+  - {type: voice, offset: 9331, length: 39, name: note, id: n202}
   - {type: substitution, offset: 9332, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
   - {type: substitution, offset: 9334, original: 懐, replacement: 懷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20626}}
   - {type: punctuation, offset: 9340, content: /, id: KR4d0323_krp_006-bkkpn1106}
@@ -3115,6 +3317,7 @@ markers:
   - {type: punctuation, offset: 9370, content: ), id: KR4d0323_krp_006-bkkpn1110}
   - {type: punctuation, offset: 9374, content: (, id: KR4d0323_krp_006-bkkpn1111}
   - {type: variant, offset: 9374, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 9374, length: 2, name: note, id: n203}
   - {type: punctuation, offset: 9375, content: /, id: KR4d0323_krp_006-bkkpn1112}
   - {type: punctuation, offset: 9376, content: ), id: KR4d0323_krp_006-bkkpn1113}
   - {type: variant, offset: 9379, length: 1, content: 會, SBCK: 㑹}
@@ -3124,6 +3327,7 @@ markers:
   - {type: line-break, offset: 9381, content: '', id: KR4d0323_WYG_006-18b06}
   - {type: punctuation, offset: 9383, content: (, id: KR4d0323_krp_006-bkkpn1114}
   - {type: variant, offset: 9383, length: 37, content: 賈誼傳大臣特以簿書不報期會之間以為大故師古曰言特以簿書期會為急劉昆傳偶然耳, SBCK: ''}
+  - {type: voice, offset: 9383, length: 37, name: note, id: n204}
   - {type: punctuation, offset: 9402, content: /, id: KR4d0323_krp_006-bkkpn1115}
   - {type: punctuation, offset: 9420, content: ), id: KR4d0323_krp_006-bkkpn1116}
   - {type: 'kr:newline', offset: 9420, content: '
@@ -3133,6 +3337,7 @@ markers:
   - {type: variant, offset: 9434, length: 1, content: 夲, SBCK: 本}
   - {type: variant, offset: 9437, length: 32, content: 瑕玼玼音疵玉中石也亦作疵左傳予取予求不爾瑕庛韓詩佳句喧衆口考官敢, SBCK: ''}
   - {type: punctuation, offset: 9439, content: (, id: KR4d0323_krp_006-bkkpn1117}
+  - {type: voice, offset: 9439, length: 32, name: note, id: n205}
   - {type: punctuation, offset: 9441, content: /, id: KR4d0323_krp_006-bkkpn1118}
   - {type: punctuation, offset: 9443, content: ), id: KR4d0323_krp_006-bkkpn1119}
   - {type: 'kr:newline', offset: 9443, content: '
@@ -3156,11 +3361,13 @@ markers:
   - {type: substitution, offset: 9483, original: 歩, replacement: 步, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20787}}
   - {type: punctuation, offset: 9485, content: (, id: KR4d0323_krp_006-bkkpn1123}
   - {type: variant, offset: 9485, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 9485, length: 3, name: note, id: n206}
   - {type: punctuation, offset: 9487, content: /, id: KR4d0323_krp_006-bkkpn1124}
   - {type: punctuation, offset: 9488, content: ), id: KR4d0323_krp_006-bkkpn1125}
   - {type: variant, offset: 9495, length: 1, content: 棘, SBCK: 􅁄}
   - {type: punctuation, offset: 9498, content: (, id: KR4d0323_krp_006-bkkpn1126}
   - {type: variant, offset: 9498, length: 11, content: 栁文能使所居官大詳見前, SBCK: ''}
+  - {type: voice, offset: 9498, length: 11, name: note, id: n207}
   - {type: punctuation, offset: 9500, content: /, id: KR4d0323_krp_006-bkkpn1127}
   - {type: punctuation, offset: 9502, content: ), id: KR4d0323_krp_006-bkkpn1128}
   - {type: 'kr:newline', offset: 9502, content: '
@@ -3174,6 +3381,7 @@ markers:
   - {type: variant, offset: 9512, length: 1, content: 蒙, SBCK: 􅂪}
   - {type: variant, offset: 9518, length: 29, content: 采易匪我求童䝉詩思樂泮水薄采其芹又思樂泮水薄采其藻注藻水草, SBCK: 釆}
   - {type: punctuation, offset: 9519, content: (, id: KR4d0323_krp_006-bkkpn1132}
+  - {type: voice, offset: 9519, length: 28, name: note, id: n208}
   - {type: substitution, offset: 9524, original: 䝉, replacement: 蒙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-4689}}
   - {type: punctuation, offset: 9526, content: /, id: KR4d0323_krp_006-bkkpn1133}
   - {type: punctuation, offset: 9533, content: ), id: KR4d0323_krp_006-bkkpn1134}
@@ -3186,10 +3394,12 @@ markers:
   - {type: punctuation, offset: 9547, content: ), id: KR4d0323_krp_006-bkkpn1137}
   - {type: punctuation, offset: 9551, content: (, id: KR4d0323_krp_006-bkkpn1138}
   - {type: variant, offset: 9551, length: 10, content: 槃盤同韓詩潭潭府中君, SBCK: ''}
+  - {type: voice, offset: 9551, length: 10, name: note, id: n209}
   - {type: punctuation, offset: 9556, content: /, id: KR4d0323_krp_006-bkkpn1139}
   - {type: punctuation, offset: 9561, content: ), id: KR4d0323_krp_006-bkkpn1140}
   - {type: variant, offset: 9563, length: 39, content: 楚材犖力角切史記天官書此其犖犖大者左傳雖楚有材晉實用之孟浩然詩共理分荆國招賢貴, SBCK: ''}
   - {type: punctuation, offset: 9565, content: (, id: KR4d0323_krp_006-bkkpn1141}
+  - {type: voice, offset: 9565, length: 39, name: note, id: n210}
   - {type: punctuation, offset: 9566, content: /, id: KR4d0323_krp_006-bkkpn1142}
   - {type: punctuation, offset: 9567, content: ), id: KR4d0323_krp_006-bkkpn1143}
   - {type: 'kr:newline', offset: 9567, content: '
@@ -3205,6 +3415,7 @@ markers:
   - {type: line-break, offset: 9606, content: '', id: KR4d0323_WYG_006-19a05}
   - {type: punctuation, offset: 9613, content: (, id: KR4d0323_krp_006-bkkpn1147}
   - {type: variant, offset: 9613, length: 15, content: 禮記君子如欲化民成俗其必由學乎, SBCK: ''}
+  - {type: voice, offset: 9613, length: 15, name: note, id: n211}
   - {type: punctuation, offset: 9621, content: /, id: KR4d0323_krp_006-bkkpn1148}
   - {type: punctuation, offset: 9628, content: ), id: KR4d0323_krp_006-bkkpn1149}
   - {type: 'kr:newline', offset: 9634, content: '
@@ -3214,6 +3425,7 @@ markers:
   - {type: variant, offset: 9638, length: 1, content: 夲, SBCK: 本}
   - {type: punctuation, offset: 9645, content: (, id: KR4d0323_krp_006-bkkpn1150}
   - {type: variant, offset: 9645, length: 12, content: 法言速哉七十子之肖仲尼也, SBCK: ''}
+  - {type: voice, offset: 9645, length: 12, name: note, id: n212}
   - {type: punctuation, offset: 9651, content: /, id: KR4d0323_krp_006-bkkpn1151}
   - {type: punctuation, offset: 9657, content: ), id: KR4d0323_krp_006-bkkpn1152}
   - {type: 'kr:newline', offset: 9661, content: '
@@ -3224,6 +3436,7 @@ markers:
   - {type: variant, offset: 9673, length: 1, content: 繼, SBCK: 継}
   - {type: punctuation, offset: 9679, content: (, id: KR4d0323_krp_006-bkkpn1153}
   - {type: variant, offset: 9679, length: 55, content: 軔音認王逸云止輪木去木動輪而發行天津即析木之津在箕斗之間日月五星於此徃來故謂之津離騷朝發軔於天津兮夕余至乎西極, SBCK: ''}
+  - {type: voice, offset: 9679, length: 55, name: note, id: n213}
   - {type: punctuation, offset: 9682, content: /, id: KR4d0323_krp_006-bkkpn1154}
   - {type: punctuation, offset: 9685, content: ), id: KR4d0323_krp_006-bkkpn1155}
   - {type: 'kr:newline', offset: 9685, content: '
@@ -3247,10 +3460,12 @@ markers:
   - {type: punctuation, offset: 9734, content: ), id: KR4d0323_krp_006-bkkpn1161}
   - {type: variant, offset: 9738, length: 3, content: 俎見前, SBCK: 爼}
   - {type: punctuation, offset: 9739, content: (, id: KR4d0323_krp_006-bkkpn1162}
+  - {type: voice, offset: 9739, length: 2, name: note, id: n214}
   - {type: punctuation, offset: 9740, content: /, id: KR4d0323_krp_006-bkkpn1163}
   - {type: punctuation, offset: 9741, content: ), id: KR4d0323_krp_006-bkkpn1164}
   - {type: punctuation, offset: 9745, content: (, id: KR4d0323_krp_006-bkkpn1165}
   - {type: variant, offset: 9745, length: 19, content: 思𤣥賦仰矯首以遥望兮魂敞惘而無儔餘見前, SBCK: ''}
+  - {type: voice, offset: 9745, length: 19, name: note, id: n215}
   - {type: substitution, offset: 9746, original: 𤣥, replacement: 玄, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0001}}
   - {type: punctuation, offset: 9752, content: /, id: KR4d0323_krp_006-bkkpn1166}
   - {type: substitution, offset: 9752, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20748}}
@@ -3271,6 +3486,7 @@ markers:
   - {type: line-break, offset: 9782, content: '', id: KR4d0323_WYG_006-19b03}
   - {type: punctuation, offset: 9782, content: (, id: KR4d0323_krp_006-bkkpn1171}
   - {type: variant, offset: 9782, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 9782, length: 3, name: note, id: n216}
   - {type: punctuation, offset: 9784, content: /, id: KR4d0323_krp_006-bkkpn1172}
   - {type: punctuation, offset: 9785, content: ), id: KR4d0323_krp_006-bkkpn1173}
   - {type: 'kr:newline', offset: 9785, content: '
@@ -3280,6 +3496,7 @@ markers:
   - {type: indent, offset: 9785, content: 　　, id: KR4d0323_krp_006-bkkind26}
   - {type: punctuation, offset: 9791, content: (, id: KR4d0323_krp_006-bkkpn1174}
   - {type: variant, offset: 9791, length: 1, content: 補, SBCK: 􅀘}
+  - {type: voice, offset: 9791, length: 22, name: note, id: n217}
   - {type: 'kr:non-cjk', offset: 9793, content: ○, id: KR4d0323_krp_006-bkkkrnonc4}
   - {type: variant, offset: 9793, length: 20, content: 善化夲漢臨湘縣地宋析置與長沙俱潭州倚郭縣, SBCK: ''}
   - {type: punctuation, offset: 9802, content: /, id: KR4d0323_krp_006-bkkpn1175}
@@ -3293,6 +3510,7 @@ markers:
   - {type: variant, offset: 9820, length: 1, content: 棘, SBCK: 􅁄}
   - {type: punctuation, offset: 9823, content: (, id: KR4d0323_krp_006-bkkpn1177}
   - {type: variant, offset: 9823, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 9823, length: 2, name: note, id: n218}
   - {type: punctuation, offset: 9824, content: /, id: KR4d0323_krp_006-bkkpn1178}
   - {type: punctuation, offset: 9825, content: ), id: KR4d0323_krp_006-bkkpn1179}
   - {type: variant, offset: 9826, length: 1, content: 俎, SBCK: 爼}
@@ -3302,6 +3520,7 @@ markers:
   - {type: line-break, offset: 9835, content: '', id: KR4d0323_WYG_006-19b06}
   - {type: punctuation, offset: 9835, content: (, id: KR4d0323_krp_006-bkkpn1180}
   - {type: variant, offset: 9835, length: 17, content: 韓文南牆鉅竹千挺對樹二松日哦其間懐, SBCK: 懷}
+  - {type: voice, offset: 9835, length: 16, name: note, id: n219}
   - {type: substitution, offset: 9839, original: 鉅, replacement: 巨, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16200}}
   - {type: punctuation, offset: 9843, content: /, id: KR4d0323_krp_006-bkkpn1181}
   - {type: punctuation, offset: 9851, content: ), id: KR4d0323_krp_006-bkkpn1182}
@@ -3310,6 +3529,7 @@ markers:
   - {type: substitution, offset: 9853, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: punctuation, offset: 9859, content: (, id: KR4d0323_krp_006-bkkpn1183}
   - {type: variant, offset: 9859, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 9859, length: 3, name: note, id: n220}
   - {type: punctuation, offset: 9861, content: /, id: KR4d0323_krp_006-bkkpn1184}
   - {type: punctuation, offset: 9862, content: ), id: KR4d0323_krp_006-bkkpn1185}
   - {type: 'kr:newline', offset: 9865, content: '
@@ -3318,11 +3538,13 @@ markers:
   - {type: line-break, offset: 9865, content: '', id: KR4d0323_WYG_006-19b07}
   - {type: punctuation, offset: 9868, content: (, id: KR4d0323_krp_006-bkkpn1186}
   - {type: variant, offset: 9868, length: 22, content: 郭璞贈温嶠詩人亦有言松竹有林及爾臭味異苔同岑, SBCK: ''}
+  - {type: voice, offset: 9868, length: 22, name: note, id: n221}
   - {type: substitution, offset: 9871, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: punctuation, offset: 9879, content: /, id: KR4d0323_krp_006-bkkpn1187}
   - {type: punctuation, offset: 9890, content: ), id: KR4d0323_krp_006-bkkpn1188}
   - {type: punctuation, offset: 9896, content: (, id: KR4d0323_krp_006-bkkpn1189}
   - {type: variant, offset: 9896, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 9896, length: 2, name: note, id: n222}
   - {type: punctuation, offset: 9897, content: /, id: KR4d0323_krp_006-bkkpn1190}
   - {type: punctuation, offset: 9898, content: ), id: KR4d0323_krp_006-bkkpn1191}
   - {type: 'kr:newline', offset: 9898, content: '
@@ -3333,6 +3555,7 @@ markers:
   - {type: variant, offset: 9905, length: 33, content: 巻山谷詩胷蟠萬巻夜灮寒筆倒三江硯滴乾又故衣未補新衣綻空蟠胷中書萬巻, SBCK: 卷}
   - {type: substitution, offset: 9905, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 9906, content: (, id: KR4d0323_krp_006-bkkpn1192}
+  - {type: voice, offset: 9906, length: 32, name: note, id: n223}
   - {type: substitution, offset: 9909, original: 胷, replacement: 胸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17174}}
   - {type: substitution, offset: 9912, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20024}}
   - {type: punctuation, offset: 9919, content: /, id: KR4d0323_krp_006-bkkpn1193}
@@ -3352,6 +3575,7 @@ markers:
   - {type: punctuation, offset: 9938, content: ), id: KR4d0323_krp_006-bkkpn1197}
   - {type: punctuation, offset: 9942, content: (, id: KR4d0323_krp_006-bkkpn1198}
   - {type: variant, offset: 9942, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 9942, length: 2, name: note, id: n224}
   - {type: punctuation, offset: 9943, content: /, id: KR4d0323_krp_006-bkkpn1199}
   - {type: punctuation, offset: 9944, content: ), id: KR4d0323_krp_006-bkkpn1200}
   - {type: variant, offset: 9949, length: 1, content: 姓, SBCK: ''}
@@ -3359,6 +3583,7 @@ markers:
   - {type: variant, offset: 9952, length: 1, content: 坐, SBCK: 垂}
   - {type: punctuation, offset: 9955, content: (, id: KR4d0323_krp_006-bkkpn1201}
   - {type: variant, offset: 9955, length: 17, content: 賈誼新書垂涎相告杜詩道逢麴車口流涎, SBCK: ''}
+  - {type: voice, offset: 9955, length: 17, name: note, id: n225}
   - {type: punctuation, offset: 9957, content: /, id: KR4d0323_krp_006-bkkpn1202}
   - {type: punctuation, offset: 9959, content: ), id: KR4d0323_krp_006-bkkpn1203}
   - {type: 'kr:newline', offset: 9959, content: '
@@ -3372,6 +3597,7 @@ markers:
   - {type: substitution, offset: 9979, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 9983, content: (, id: KR4d0323_krp_006-bkkpn1207}
   - {type: variant, offset: 9983, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 9983, length: 2, name: note, id: n226}
   - {type: punctuation, offset: 9984, content: /, id: KR4d0323_krp_006-bkkpn1208}
   - {type: punctuation, offset: 9985, content: ), id: KR4d0323_krp_006-bkkpn1209}
   - {type: 'kr:newline', offset: 9987, content: '
@@ -3388,6 +3614,7 @@ markers:
   - {type: variant, offset: 10015, length: 88, content: 烟史記太史公自序上㑹稽探禹穴張晏曰禹廵狩至會稽而崩因葬焉上有孔穴民間曰禹入此穴正義曰呉越春秋禹登委宛之山發石乃得金簡玉字以水泉之脉山中又有一穴深不見底謂之禹穴杜詩南尋禹穴見李白, SBCK: 煙}
   - {type: substitution, offset: 10015, original: 烟, replacement: 煙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17207}}
   - {type: punctuation, offset: 10016, content: (, id: KR4d0323_krp_006-bkkpn1210}
+  - {type: voice, offset: 10016, length: 87, name: note, id: n227}
   - {type: substitution, offset: 10024, original: 㑹, replacement: 會, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-0002}}
   - {type: punctuation, offset: 10029, content: /, id: KR4d0323_krp_006-bkkpn1211}
   - {type: substitution, offset: 10033, original: 廵, replacement: 巡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16441}}
@@ -3416,6 +3643,7 @@ markers:
   - {type: variant, offset: 10114, length: 1, content: 寧, SBCK: 寕}
   - {type: variant, offset: 10120, length: 65, content: 為文貢禹傳生有伯夷之亷史魚之直守經據古不阿當世韓文博陵崔斯立種學績文以蓄其有既噤不得施用則盡析去牙角一躡故跡破崖岸而為之為之一作為, SBCK: 爲}
   - {type: punctuation, offset: 10122, content: (, id: KR4d0323_krp_006-bkkpn1219}
+  - {type: voice, offset: 10122, length: 64, name: note, id: n228}
   - {type: punctuation, offset: 10135, content: /, id: KR4d0323_krp_006-bkkpn1220}
   - {type: punctuation, offset: 10148, content: ), id: KR4d0323_krp_006-bkkpn1221}
   - {type: 'kr:newline', offset: 10148, content: '
@@ -3437,10 +3665,12 @@ markers:
   - {type: variant, offset: 10190, length: 1, content: 會, SBCK: 㑹}
   - {type: punctuation, offset: 10198, content: (, id: KR4d0323_krp_006-bkkpn1225}
   - {type: variant, offset: 10198, length: 2, content: 見前, SBCK: ''}
+  - {type: voice, offset: 10198, length: 2, name: note, id: n229}
   - {type: punctuation, offset: 10199, content: /, id: KR4d0323_krp_006-bkkpn1226}
   - {type: punctuation, offset: 10200, content: ), id: KR4d0323_krp_006-bkkpn1227}
   - {type: punctuation, offset: 10205, content: (, id: KR4d0323_krp_006-bkkpn1228}
   - {type: variant, offset: 10205, length: 8, content: 繫辭非所據而據焉, SBCK: ''}
+  - {type: voice, offset: 10205, length: 8, name: note, id: n230}
   - {type: punctuation, offset: 10209, content: /, id: KR4d0323_krp_006-bkkpn1229}
   - {type: punctuation, offset: 10213, content: ), id: KR4d0323_krp_006-bkkpn1230}
   - {type: 'kr:newline', offset: 10214, content: '
@@ -3449,6 +3679,7 @@ markers:
   - {type: line-break, offset: 10214, content: '', id: KR4d0323_WYG_006-20b02}
   - {type: punctuation, offset: 10227, content: (, id: KR4d0323_krp_006-bkkpn1231}
   - {type: variant, offset: 10227, length: 31, content: 詩東方未明顚倒衣裳古詩君子防未然不處嫌疑間𤓰田不納履李下不整冠, SBCK: ''}
+  - {type: voice, offset: 10227, length: 31, name: note, id: n231}
   - {type: punctuation, offset: 10235, content: /, id: KR4d0323_krp_006-bkkpn1232}
   - {type: punctuation, offset: 10243, content: ), id: KR4d0323_krp_006-bkkpn1233}
   - {type: 'kr:newline', offset: 10243, content: '
@@ -3464,6 +3695,7 @@ markers:
   - {type: substitution, offset: 10263, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: punctuation, offset: 10268, content: (, id: KR4d0323_krp_006-bkkpn1237}
   - {type: variant, offset: 10268, length: 40, content: 新唐書文㙯傳盧照隣駱賓王皆以文章齊名天下稱王楊盧駱四傑楊烱甞曰吾愧在盧前恥居王後, SBCK: ''}
+  - {type: voice, offset: 10268, length: 40, name: note, id: n232}
   - {type: punctuation, offset: 10271, content: /, id: KR4d0323_krp_006-bkkpn1238}
   - {type: punctuation, offset: 10274, content: ), id: KR4d0323_krp_006-bkkpn1239}
   - {type: 'kr:newline', offset: 10274, content: '
@@ -3483,6 +3715,7 @@ markers:
   - {type: variant, offset: 10315, length: 1, content: 裹, SBCK: 褁}
   - {type: punctuation, offset: 10320, content: (, id: KR4d0323_krp_006-bkkpn1243}
   - {type: variant, offset: 10320, length: 3, content: 俱見前, SBCK: ''}
+  - {type: voice, offset: 10320, length: 3, name: note, id: n233}
   - {type: punctuation, offset: 10322, content: /, id: KR4d0323_krp_006-bkkpn1244}
   - {type: punctuation, offset: 10323, content: ), id: KR4d0323_krp_006-bkkpn1245}
   - {type: variant, offset: 10331, length: 1, content: 附, SBCK: 􅀒}
@@ -3492,6 +3725,7 @@ markers:
   - {type: line-break, offset: 10334, content: '', id: KR4d0323_WYG_006-20b06}
   - {type: punctuation, offset: 10335, content: (, id: KR4d0323_krp_006-bkkpn1246}
   - {type: variant, offset: 10335, length: 10, content: 列子子又生孫孫又生子, SBCK: ''}
+  - {type: voice, offset: 10335, length: 10, name: note, id: n234}
   - {type: punctuation, offset: 10340, content: /, id: KR4d0323_krp_006-bkkpn1247}
   - {type: punctuation, offset: 10345, content: ), id: KR4d0323_krp_006-bkkpn1248}
   - {type: variant, offset: 10346, length: 1, content: 負, SBCK: 􅀒}
@@ -3499,6 +3733,7 @@ markers:
   - {type: variant, offset: 10355, length: 85, content: 商㩁韓文余不負丞而丞負余漢書揚㩁古今㩁克角切説文敲擊也博雅揚㩁都凡也徐曰㩁之言罩也人謂粗略而舉之曰揚㩁集韻大舉也又虛郭切手反復也韓詩聖籍飽商㩁劉子𤣥史通序載削餘暇商㩁史篇, SBCK: 啇搉梅亭先生}
   - {type: substitution, offset: 10356, original: 㩁, replacement: 榷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19755}}
   - {type: punctuation, offset: 10357, content: (, id: KR4d0323_krp_006-bkkpn1249}
+  - {type: voice, offset: 10357, length: 83, name: note, id: n235}
   - {type: punctuation, offset: 10360, content: /, id: KR4d0323_krp_006-bkkpn1250}
   - {type: punctuation, offset: 10363, content: ), id: KR4d0323_krp_006-bkkpn1251}
   - {type: 'kr:newline', offset: 10363, content: '
@@ -3619,4 +3854,4 @@ markers:
   - {type: variant, offset: 10446, length: 0, content: '', SBCK: 梅亭先生四六標凖卷之七}
   - {type: page-break, offset: 10446, content: '', id: KR4d0323_SBCK_007-1a}
   back: []
-hash: sha256:a90b681e425709e7fc5e444aa8cc9b2a91a7645d165229cb419cbce1689734ba
+hash: sha256:41a782882246dac96a0ecddd89d6d110b1273fcb1a37072045af711dca4b385c
